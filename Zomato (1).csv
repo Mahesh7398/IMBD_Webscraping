@@ -1,0 +1,502 @@
+Restaurant,Ratings,Cusine,Price_For_1,Links,Distance,Offers
+High Ultra Lounge - Sheraton Grand Bangalore Hotel,4.3,"North Indian, Continental, Finger Food, Desserts",1800.0,https://www.zomato.com/bangalore/high-ultra-lounge-sheraton-grand-bangalore-hotel-malleshwaram-bangalore/info,6.2 km,15% OFF
+Koramangala SOCIAL,4.4,"North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Korean, Beverages",750.0,https://www.zomato.com/koramangalasocial/info,4.5 km,-
+Muro,4.1,"Thai, Cantonese, Salad, Asian, Chinese, Desserts",1500.0,https://www.zomato.com/bangalore/muro-church-street-bangalore/info,997 m,-
+Flo,4.1,"Asian, Thai, Continental, Finger Food, Sushi, Desserts, Beverages",950.0,https://www.zomato.com/bangalore/flo-church-street-bangalore/info,1.4 km,25% OFF
+Öz by Kebapci,4.5,"Turkish, Mediterranean, Middle Eastern",900.0,https://www.zomato.com/bangalore/%C3%B6z-by-kebapci-lavelle-road-bangalore/info,184 m,-
+Sozo Skyline,New,"Asian, Chinese, Thai, Sushi",900.0,https://www.zomato.com/bangalore/sozo-skyline-lavelle-road-bangalore/info,494 m,10% OFF
+Hard Rock Cafe,4.6,"American, Continental, Italian, Wraps, Burger, Desserts, Fast Food, Beverages",1250.0,https://www.zomato.com/bangalore/hard-rock-cafe-st-marks-road/info,922 m,20% OFF
+Scottish Pub,New,"Asian, Chinese, Burger, North Indian, Continental, Bar Food, South Indian, Pasta",600.0,https://www.zomato.com/bangalore/scottish-pub-st-marks-road/info,713 m,10% OFF
+Babylonia - Global Food & Cocktails,4.5,"Continental, North Indian, Asian, Italian, Mughlai, Mediterranean, Bar Food, Desserts",750.0,https://www.zomato.com/bangalore/babylonia-global-food-cocktails-koramangala-7th-block-bangalore/info,4.6 km,10% OFF
+Secret Story,3.9,"Continental, Asian, North Indian, Fast Food, Desserts, Beverages, Vietnamese, Italian",750.0,https://www.zomato.com/bangalore/secret-story-indiranagar-bangalore/info,4.9 km,10% OFF
+Bramble,New,"Continental, Asian, North Indian, Italian, Bar Food, Beverages",900.0,https://www.zomato.com/bangalore/bramble-jayanagar-bangalore/info,6.3 km,10% OFF
+The Big Barbeque,4.2,"North Indian, Chinese, Ice Cream, Mangalorean, Fast Food, Salad, Desserts",900.0,https://www.zomato.com/bangalore/the-big-barbeque-bannerghatta-road-bangalore/info,9.9 km,10% OFF
+Gilly's Restobar,4.3,"North Indian, Continental, Oriental, Pizza, Fast Food, Chinese, Desserts, Beverages",600.0,https://www.zomato.com/bangalore/gillys-restobar-1-airport-road-bangalore/info,6.7 km,15% OFF
+Absolute Shawarma,3.9,"Shawarma, Fast Food, Burger, Pizza, Wraps, Momos, Waffle, Shake",150.0,https://www.zomato.com/bangalore/absolute-shawarma-chanapatna-bangalore/info,56.2 km,-
+Vanamo,New,"Continental, Cafe",1000.0,https://www.zomato.com/bangalore/vanamo-indiranagar-bangalore/info,5.1 km,10% OFF
+Magic Mocktails Cafe,-,"Beverages, Pizza, Burger, Sandwich, Fast Food, Chinese, Street Food, Shake",100.0,https://www.zomato.com/bangalore/magic-mocktails-cafe-2-chanapatna-bangalore/info,55.6 km,-
+KOKO,4.5,"Asian, Sushi, Desserts, Chinese, Beverages",1750.0,https://www.zomato.com/bangalore/koko-airport-road-bangalore/info,5.9 km,-
+Long Boat Brewing Co.,4.2,"Asian, Chinese, North Indian, Pizza, South Indian, Continental",1000.0,https://www.zomato.com/bangalore/long-boat-brewing-co-marathahalli-bangalore/info,11.7 km,-
+Miso Sexy,4.3,"Japanese, Chinese, Sushi, Beverages",900.0,https://www.zomato.com/bangalore/miso-sexy-indiranagar-bangalore/info,5 km,-
+Oia,4.2,"Continental, Asian, Seafood, Salad, Pizza, North Indian, Desserts",1250.0,https://www.zomato.com/bangalore/oia-3-hennur-bangalore/info,13 km,-
+Oney Brewhouse,4.0,"American, Continental, Italian, South Indian, North Indian, Asian, Chinese",750.0,https://www.zomato.com/bangalore/oney-brewhouse-cunningham-road-bangalore/info,1.6 km,15% OFF
+BLR Brewing Co,4.4,"North Indian, Continental, Chinese, Italian, BBQ, Bar Food, Desserts",750.0,https://www.zomato.com/bangalore/blr-brewing-co-1-whitefield-bangalore/info,12.4 km,-
+Magique,4.0,"Asian, Modern Indian, Continental, Italian, North Indian, Sushi, Desserts, Beverages",850.0,https://www.zomato.com/bangalore/magique-koramangala-6th-block-bangalore/info,5.2 km,10% OFF
+Nusa,4.2,"North Indian, Asian, Continental, European, South Indian, Indonesian, Bar Food, Finger Food",750.0,https://www.zomato.com/bangalore/nusa-varthur-main-road-whitefield-bangalore/info,16 km,-
+Foo Brigade Road,4.7,"Chinese, Sushi, Asian, Japanese, Desserts",1000.0,https://www.zomato.com/bangalore/foo-brigade-road-brigade-road-bangalore/info,1.4 km,-
+Ironhill Bengaluru,4.5,"North Indian, Continental, Asian, Pizza, Fast Food, Biryani, Beverages, Desserts",1000.0,https://www.zomato.com/bangalore/ironhill-bengaluru-marathahalli-bangalore/info,11.6 km,-
+Alchemy,4.2,"North Indian, Continental, Biryani, Desserts, Bar Food, South Indian, Seafood, Beverages",1650.0,https://www.zomato.com/bangalore/alchemy-residency-road-bangalore/info,784 m,20% OFF
+Go Native,4.3,"Healthy Food, Desserts, Beverages, Salad, Coffee, Oriental, Pizza",850.0,https://www.zomato.com/bangalore/go-native-hsr-bangalore/info,8 km,-
+Farzi Cafe,4.2,"North Indian, Desserts",950.0,https://www.zomato.com/bangalore/farzi-cafe-lavelle-road/info,168 m,10% OFF
+Roxie,4.6,"Continental, Asian, North Indian, European, American, Italian, Pizza, Beverages",1300.0,https://www.zomato.com/bangalore/roxie-sarjapur-road-bangalore/info,10 km,-
+Barbecue By Punjab Grill,4.2,"BBQ, Mughlai, North Indian, Salad, Desserts",800.0,https://www.zomato.com/bangalore/barbecue-by-punjab-grill-malleshwaram-bangalore/info,3.4 km,20% OFF
+Corner House Ice Creams,4.5,"Ice Cream, Desserts, Shake",150.0,https://www.zomato.com/bangalore/corner-house-ice-creams-indiranagar-bangalore/info,4.7 km,-
+Biergarten,4.6,"Continental, European, BBQ, Chinese, Asian, Beverages",1250.0,https://www.zomato.com/bangalore/biergarten-koramangala-5th-block/info,4.8 km,10% OFF
+Indian Biere House,4.5,"Continental, Mediterranean, North Indian, Asian, Bar Food, Italian, Desserts, Beverages",1250.0,https://www.zomato.com/bangalore/indian-biere-house-jp-nagar-bangalore/info,7.3 km,-
+Ouzo By Fire,4.2,"Goan, Mangalorean, Beverages",500.0,https://www.zomato.com/bangalore/ouzo-by-fire-indiranagar-bangalore/info,5.1 km,10% OFF
+One8 Commune,4.0,"North Indian, Chinese, Pasta, Sushi, Continental, Desserts, Beverages",1500.0,https://www.zomato.com/bangalore/one8-commune-lavelle-road-bangalore/info,731 m,-
+SkyDeck By Sherlock's,4.2,"Continental, Chinese, Finger Food, North Indian, Fast Food, Beverages, Desserts",900.0,https://www.zomato.com/bangalore/skydeck-by-sherlocks-mg-road-bangalore/info,1.5 km,15% OFF
+The Bier Library,4.5,"North Indian, Pizza, European, American, Bar Food, Oriental, Desserts, BBQ",900.0,https://www.zomato.com/bangalore/the-bier-library-koramangala-6th-block-bangalore/info,5 km,-
+Homiga,4.5,"Korean, Asian",750.0,https://www.zomato.com/bangalore/homiga-brigade-road-bangalore/info,1.4 km,-
+Mykos Craft Kitchen & Bar,4.3,"Continental, Greek, Asian, Mediterranean, North Indian",800.0,https://www.zomato.com/bangalore/mykos-craft-kitchen-bar-bannerghatta-road-bangalore/info,8.3 km,-
+Daddy,4.3,"Continental, North Indian, Asian, Italian, Chinese, European, Bar Food, Beverages",850.0,https://www.zomato.com/bangalore/daddy-indiranagar-bangalore/info,4.9 km,-
+Phurr,4.4,"North Indian, Continental, Beverages",1000.0,https://www.zomato.com/bangalore/phurr-jayanagar-bangalore/info,4.5 km,-
+Jook Taproom,4.4,"North Indian, South Indian, Chinese, Pizza, Fast Food, Biryani, Asian, Bar Food",800.0,https://www.zomato.com/bangalore/jook-taproom-indiranagar-bangalore/info,5.1 km,10% OFF
+Uru Brewpark,4.3,"Continental, North Indian, Italian, Chinese, Asian, Pizza, Lebanese, Beverages",1100.0,https://www.zomato.com/bangalore/uru-brewpark-jp-nagar-bangalore/info,7.4 km,10% OFF
+Bhangra Bistro,4.5,"North Indian, Mughlai, Desserts",500.0,https://www.zomato.com/bangalore/bhangra-bistro-indiranagar-bangalore/info,5.1 km,-
+Yellow Door - The Neighbourhood Kitchen,4.2,"North Indian, Asian, Italian, Fast Food",550.0,https://www.zomato.com/bangalore/yellow-door-the-neighbourhood-kitchen-1-koramangala-5th-block-bangalore/info,4.8 km,20% OFF
+Toca Koramangala,4.1,"Chinese, Fast Food, Steak, Pasta, Asian, Biryani, Desserts",700.0,https://www.zomato.com/bangalore/toca-koramangala-koramangala-5th-block-bangalore/info,4.7 km,10% OFF
+Brahma Brews,4.5,"Asian, North Indian, South Indian",1250.0,https://www.zomato.com/bangalore/brahma-brews-jp-nagar-bangalore/info,8.7 km,-
+The Terrace at Gilly's Redefined,4.4,"Continental, North Indian, Italian, Bar Food, Desserts, Chinese, Beverages",1000.0,https://www.zomato.com/bangalore/the-terrace-at-gillys-redefined-koramangala-4th-block/info,5.3 km,15% OFF
+Pangeo,4.5,"Sushi, Continental, Mediterranean, Pizza, Pasta, North Indian, Desserts, Asian",1750.0,https://www.zomato.com/bangalore/pangeo-brigade-road-bangalore/info,1.3 km,-
+Citrus - The Leela Palace,4.0,"North Indian, Continental, Asian, Desserts",2350.0,https://www.zomato.com/bangalore/citrus-the-leela-palace-airport-road/info,6.1 km,10% OFF
+Now Boarding Café,3.9,"Chinese, Fast Food, Sandwich, Pasta, Pizza, Desserts, Shake, Beverages",500.0,https://www.zomato.com/bangalore/now-boarding-caf%C3%A9-3-jayanagar-bangalore/info,4.3 km,10% OFF
+KLING,4.3,"Continental, European, Asian, Chinese, North Indian, South Indian, Seafood",750.0,https://www.zomato.com/bangalore/kling-church-street-bangalore/info,1.1 km,-
+Pasta Street,4.6,"Pasta, Pizza, Italian, Salad, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/pasta-street-jp-nagar-bangalore/info,7.2 km,10% OFF
+Moglu - The Edgy Veggie Restaurant,4.0,"Bakery, Modern Indian, Desserts, Beverages, American, Coffee, Sandwich, Pasta",900.0,https://www.zomato.com/bangalore/moglu-the-edgy-veggie-restaurant-st-marks-road-bangalore/info,914 m,-
+Candles  Brewhouse,4.3,"Italian, Continental, American, Pizza, North Indian",1250.0,https://www.zomato.com/bangalore/candles-brewhouse-hebbal-bangalore/info,9.3 km,10% OFF
+Cafe Grey By Dongle & Co,4.4,"Cafe, Coffee, Beverages, Continental, Pizza, Italian, Salad, Desserts",600.0,https://www.zomato.com/bangalore/cafe-grey-by-dongle-co-indiranagar-bangalore/info,5.4 km,10% OFF
+Street 1522,4.3,"North Indian, Asian, Seafood, Continental, Mughlai, Kebab, Street Food, Beverages",1100.0,https://www.zomato.com/bangalore/street-1522-sarjapur-road-bangalore/info,14.1 km,-
+Tipsy Bull- The Bar Exchange,4.2,"Chinese, Continental, North Indian, Fast Food, Desserts",700.0,https://www.zomato.com/bangalore/tipsy-bull-the-bar-exchange-koramangala-5th-block-bangalore/info,4.8 km,-
+Maize & Malt,New,"Continental, Asian, South Indian, North Indian, Salad, Momos, Desserts",600.0,https://www.zomato.com/bangalore/maize-malt-whitefield-bangalore/info,11.9 km,-
+Smoke House Deli,4.5,"Continental, Italian, BBQ, Fast Food, Ice Cream, Salad, Desserts, Beverages",900.0,https://www.zomato.com/SmokeHouseDeli-Indiranagar/info,5.1 km,-
+Bastian,3.5,"Continental, Greek",1000.0,https://www.zomato.com/bangalore/bastian-st-marks-road-bangalore/info,670 m,-
+Idylll - Indian Plates & Cocktails,New,"North Indian, Modern Indian, Kebab, Desserts",1300.0,https://www.zomato.com/bangalore/idylll-indian-plates-cocktails-indiranagar-bangalore/info,5.5 km,-
+The Pump House,4.4,"Continental, Chinese, North Indian, Italian, Asian, Salad, Pizza, Desserts",800.0,https://www.zomato.com/bangalore/the-pump-house-1-jp-nagar-bangalore/info,7.4 km,-
+Roastea,4.2,"Coffee, Italian, Pizza, Pasta, Bakery, Cafe",700.0,https://www.zomato.com/bangalore/roastea-koramangala-4th-block-bangalore/info,5.4 km,10% OFF
+Sky Garden,4.1,"Continental, North Indian, Pizza, Asian, Pasta, Chinese, Desserts, Beverages",1000.0,https://www.zomato.com/bangalore/sky-garden-whitefield-bangalore/info,12.1 km,20% OFF
+Geometry Brewery & Kitchen,4.3,"Chinese, North Indian, Italian, Continental, Pizza, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/geometry-brewery-kitchen-rajajinagar-bangalore/info,5.7 km,10% OFF
+Peepai,4.5,"North Indian, Pizza, Chinese, European, Bar Food, Biryani, Desserts, Beverages",1250.0,https://www.zomato.com/bangalore/peepai-3-hebbal-bangalore/info,9.3 km,-
+Bunny Bar,4.3,Bar Food,500.0,https://www.zomato.com/bangalore/bunny-bar-koramangala-4th-block-bangalore/info,5.8 km,-
+Taproom By Sherlock's,4.3,"North Indian, Oriental, Continental, Biryani, Pizza, Pasta, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/taproom-by-sherlocks-jp-nagar-bangalore/info,7.4 km,25% OFF
+Toca Brigade,4.2,"Chinese, Fast Food, Steak, Pasta, Asian, Biryani, Desserts",600.0,https://www.zomato.com/bangalore/toca-brigade-brigade-road-bangalore/info,1.5 km,10% OFF
+Tall Oaks,4.5,"Asian, Continental, North Indian, Chinese, Seafood, Mexican, Bar Food, South Indian",600.0,https://www.zomato.com/bangalore/tall-oaks-seegehalli-bangalore/info,19 km,-
+Masaledaar Desi Rasoi,4.3,"North Indian, Chinese, Desserts, Beverages",400.0,https://www.zomato.com/bangalore/masaledaar-desi-rasoi-jayanagar-bangalore/info,5.9 km,-
+Byg Brewski Brewing Company,4.5,"Continental, North Indian, Asian, Fast Food, Pizza, Pasta, Burger, Desserts",1000.0,https://www.zomato.com/bangalore/byg-brewski-brewing-company-sarjapur-road-bangalore/info,11.6 km,-
+Brooks And Bonds Brewery,4.1,"Continental, American, North Indian, Italian, Fast Food, Beverages, Desserts",1000.0,https://www.zomato.com/bangalore/brooks-and-bonds-brewery-koramangala-5th-block-bangalore/info,5.2 km,15% OFF
+Feast - Sheraton Grand Bangalore Hotel at Brigade Gateway,4.5,"North Indian, Continental, Fast Food, Asian, Beverages",1750.0,https://www.zomato.com/bangalore/feast-sheraton-grand-bangalore-hotel-at-brigade-gateway-malleshwaram-bangalore/info,6.3 km,15% OFF
+Punjab Grill,4.2,"North Indian, Kebab, Biryani, Mughlai",1000.0,https://www.zomato.com/bangalore/punjab-grill-rajajinagar-bangalore/info,3.5 km,15% OFF
+The Scene - Craft Kitchen & Bar,4.2,"North Indian, Continental, Asian, Desserts, Beverages",750.0,https://www.zomato.com/bangalore/the-scene-craft-kitchen-bar-jp-nagar-bangalore/info,7.4 km,-
+Gawky Goose,4.4,"Italian, Biryani, North Indian, Fast Food, Seafood, Asian, Desserts, Beverages",1100.0,https://www.zomato.com/bangalore/gawky-goose-airport-road-bangalore/info,6.6 km,15% OFF
+Gochick,3.8,"Burger, Fast Food",200.0,https://www.zomato.com/bangalore/gochick-hsr-bangalore/info,8.9 km,10% OFF
+No Limmits Lounge And Club,3.8,"Chinese, Continental, North Indian, Fast Food, Pizza, Beverages",1250.0,https://www.zomato.com/bangalore/no-limmits-lounge-and-club-brigade-road-bangalore/info,1.8 km,25% OFF
+Macaw By Stories,4.2,"South Indian, North Indian, Chinese, Pasta, Pizza, Fast Food, Salad, Desserts",900.0,https://www.zomato.com/bangalore/macaw-by-stories-bommanahalli-bangalore/info,11.1 km,-
+VYANA - World Cuisine,3.9,"Modern Indian, Oriental, Continental, Chinese, North Indian, Pizza, Italian, Desserts",850.0,https://www.zomato.com/bangalore/vyana-world-cuisine-jp-nagar-bangalore/info,6.8 km,10% OFF
+Aurum Brew Works,4.3,"North Indian, Continental, Asian, Beverages, Desserts",750.0,https://www.zomato.com/bangalore/aurum-brew-works-sarjapur-road-bangalore/info,12 km,10% OFF
+Nomad PizzaBar,4.6,"Pizza, Italian, Beverages, Burger, Mexican, Pasta, Cafe",750.0,https://www.zomato.com/bangalore/nomad-pizzabar-indiranagar-bangalore/info,5 km,15% OFF
+Red Rhino,4.4,"Continental, North Indian, Asian, Oriental, Mediterranean, Mangalorean, Beverages, Desserts",1000.0,https://www.zomato.com/bangalore/red-rhino-whitefield-bangalore/info,19 km,10% OFF
+Boho,4.1,"Continental, Asian, American, Mexican, Beverages, Desserts, Korean, Italian",275.0,https://www.zomato.com/bangalore/boho-koramangala-5th-block/info,4.8 km,10% OFF
+Hoot,4.2,"Continental, Italian, North Indian, Beverages",1000.0,https://www.zomato.com/bangalore/hoot-sarjapur-road/info,11.1 km,10% OFF
+Terrace By House Of Commons,4.5,"Modern Indian, Continental, Asian, Chinese, North Indian, Seafood, Bar Food, Beverages",1000.0,https://www.zomato.com/bangalore/terrace-by-house-of-commons-jp-nagar-bangalore/info,6.4 km,15% OFF
+Prime Golf - Brewing & Golfing,4.3,"Modern Indian, Beverages, Momos",1000.0,https://www.zomato.com/bangalore/prime-golf-brewing-golfing-whitefield-bangalore/info,19.1 km,20% OFF
+District 6 Pub Brewery & Kitchen,4.5,"North Indian, Pizza, Italian, Bar Food, Continental, Asian, Desserts",1250.0,https://www.zomato.com/bangalore/district-6-pub-brewery-kitchen-malleshwaram-bangalore/info,6.2 km,-
+Karavalli - The Gateway Hotel,4.3,"Mangalorean, Konkan, Seafood, Kerala",2000.0,https://www.zomato.com/bangalore/karavalli-the-gateway-hotel-residency-road/info,1.6 km,-
+Ganbeii,4.5,"Kerala, Continental, Asian, Pizza, Pasta, Burger, North Indian",500.0,https://www.zomato.com/bangalore/ganbeii-koramangala-5th-block-bangalore/info,4.8 km,-
+The Palms Brew & Kitchen,New,"Modern Indian, Italian, Continental, North Indian, Asian",800.0,https://www.zomato.com/bangalore/the-palms-brew-kitchen-jp-nagar-bangalore/info,8.4 km,-
+21st Amendment Gastrobar,4.3,"North Indian, Fast Food, Chinese, Bar Food, Sichuan, Beverages",850.0,https://www.zomato.com/bangalore/21st-amendment-gastrobar-indiranagar-bangalore/info,5.1 km,10% OFF
+Backstreet Brewery,4.4,"Italian, Bar Food, Pizza, North Indian, Asian, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/backstreet-brewery-sarjapur-road-bangalore/info,12.3 km,15% OFF
+Jugni Kitchen & Bar,4.4,"North Indian, Modern Indian, Bar Food, Seafood, South Indian, Desserts, Beverages",800.0,https://www.zomato.com/bangalore/jugni-kitchen-bar-koramangala-5th-block-bangalore/info,4.9 km,-
+Toit,4.9,"Italian, American, European, Continental, Desserts",1250.0,https://www.zomato.com/bangalore/toit-indiranagar/info,5.1 km,-
+Three Dots & A Dash,4.3,"North Indian, Continental, Italian",900.0,https://www.zomato.com/bangalore/three-dots-a-dash-jp-nagar/info,6.8 km,10% OFF
+The Soda Factory,4.3,"North Indian, Chinese, Pasta, Pizza, Fast Food, Biryani, Desserts, Beverages",550.0,https://www.zomato.com/bangalore/the-soda-factory-nagarbhavi-bangalore/info,11.7 km,10% OFF
+Ambedo Kitchen|Taproom,4.5,"Continental, Asian, North Indian, Italian, Pizza, Sushi",750.0,https://www.zomato.com/bangalore/ambedo-kitchen-taproom-jp-nagar-bangalore/info,6.8 km,10% OFF
+Stories Brewery & Kitchen,4.5,"North Indian, Continental, Chinese, Finger Food, Beverages, Desserts",800.0,https://www.zomato.com/bangalore/stories-brewery-kitchen-btm-bangalore/info,7.5 km,10% OFF
+Ministry of Food - Hilton Bangalore Embassy GolfLinks,3.9,"Asian, Continental, Italian, North Indian, Mughlai, Desserts, Beverages",1750.0,https://www.zomato.com/bangalore/ministry-of-food-hilton-bangalore-embassy-golflinks-domlur-bangalore/info,6.1 km,25% OFF
+Big Pitcher,4.4,"North Indian, Continental, Mughlai, Chinese, Italian, Biryani, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/big-pitcher-sarjapur-road-bangalore/info,12.3 km,-
+By Chance,4.2,"Italian, Continental",750.0,https://www.zomato.com/bangalore/by-chance-1-brigade-road-bangalore/info,1.4 km,10% OFF
+Pizza 4P's,4.2,"Pizza, Pasta",500.0,https://www.zomato.com/bangalore/pizza-4ps-indiranagar-bangalore/info,4.5 km,-
+Zoey's,4.0,"Cafe, Coffee, Continental, Italian, Chinese, Desserts, Shake, Beverages",275.0,https://www.zomato.com/bangalore/zoeys-koramangala-5th-block-bangalore/info,4.9 km,-
+TBC- Sky Lounge,4.5,"Continental, Italian, Asian, North Indian, South Indian, Biryani, Desserts, Beverages",750.0,https://www.zomato.com/bangalore/tbc-sky-lounge-hsr-bangalore/info,8.2 km,10% OFF
+House Of Commons,4.3,"Bar Food, North Indian, Italian, Chinese, Fast Food, Continental, Beverages, Desserts",600.0,https://www.zomato.com/bangalore/house-of-commons-koramangala-5th-block-bangalore/info,4.7 km,10% OFF
+JULIET,4.2,"Asian, Continental, Sushi, Thai, Japanese, Desserts",1250.0,https://www.zomato.com/bangalore/juliet-mg-road-bangalore/info,2.8 km,-
+Maffei Kitchen,4.6,"Lebanese, Greek, Moroccan, Desserts, Beverages",850.0,https://www.zomato.com/bangalore/maffei-kitchen-1-koramangala-5th-block-bangalore/info,5.1 km,-
+Hashtag 88,4.3,"Asian, Chinese, Salad, North Indian, Fast Food, Biryani, Desserts",600.0,https://www.zomato.com/bangalore/hashtag-88-marathahalli-bangalore/info,11.6 km,15% OFF
+Bamey's Gastro Bar,4.5,"Nepalese, Chinese, North Indian, Momos, Bar Food, Asian, Desserts, Tibetan",500.0,https://www.zomato.com/bangalore/bameys-gastro-bar-1-koramangala-5th-block-bangalore/info,5 km,10% OFF
+Bombay Adda,4.2,"Continental, North Indian, Asian, Pizza, Fast Food, Kebab, Desserts, Beverages",1000.0,https://www.zomato.com/bangalore/bombay-adda-koramangala-7th-block-bangalore/info,4.6 km,10% OFF
+Harley's Fine Baking,4.1,"Bakery, Sandwich, Desserts",300.0,https://www.zomato.com/bangalore/harleys-fine-baking-jp-nagar-bangalore/info,6.8 km,-
+Orah Brew Garden,4.3,"Asian, Continental, Desserts, European, Modern Indian",650.0,https://www.zomato.com/bangalore/orah-brew-garden-yelahanka-bangalore/info,14.3 km,10% OFF
+1131 Bar + Kitchen By House Of Commons,4.5,"Finger Food, North Indian, Continental, Chinese, Italian, Asian, Desserts, Beverages",1100.0,https://www.zomato.com/bangalore/1131-bar-kitchen-by-house-of-commons-indiranagar-bangalore/info,5.1 km,10% OFF
+Inanna Tap Room,4.2,"Chinese, North Indian, Burger, Pizza, Italian, Desserts",1000.0,https://www.zomato.com/bangalore/inanna-tap-room-bannerghatta-road-bangalore/info,11 km,10% OFF
+Shokudo,4.0,"Japanese, Thai, Chinese, Asian, Sushi, Desserts, Beverages, Korean",750.0,https://www.zomato.com/bangalore/shokudo-jayanagar-bangalore/info,5.3 km,15% OFF
+Masala Mandi,4.3,"North Indian, BBQ, Biryani, Desserts, Beverages, Mughlai",900.0,https://www.zomato.com/bangalore/masala-mandi-sarjapur-road-bangalore/info,12 km,-
+Ging - Royal Orchid Central,4.3,"Asian, Seafood, Desserts, Oriental",1250.0,https://www.zomato.com/bangalore/ging-royal-orchid-central-mg-road/info,2.3 km,25% OFF
+Kappa Chakka Kandhari,4.4,"Kerala, South Indian, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/kappa-chakka-kandhari-koramangala-6th-block-bangalore/info,4.7 km,-
+K-OS TheGameBar,4.3,"Continental, Italian, North Indian, Finger Food, Asian, Fast Food",850.0,https://www.zomato.com/bangalore/k-os-thegamebar-koramangala-7th-block-bangalore/info,4.6 km,10% OFF
+Deck Of Brews,4.3,"Continental, North Indian, Italian, Asian, Desserts, Pizza, Pasta, South Indian",750.0,https://www.zomato.com/bangalore/deck-of-brews-mahadevapura-bangalore/info,11.9 km,10% OFF
+Daily Sushi,4.3,"Sushi, Japanese, Korean, Asian, Beverages",475.0,https://www.zomato.com/bangalore/daily-sushi-1-indiranagar-bangalore/info,4.8 km,10% OFF
+The Black Pearl,4.2,"BBQ, North Indian, Biryani",1050.0,https://www.zomato.com/bangalore/the-black-pearl-kadubeesanahalli-bangalore/info,11.5 km,15% OFF
+The Lazy Turtle,4.1,"North Indian, Chinese, Seafood, Fast Food, Pizza, Bar Food, Desserts",600.0,https://www.zomato.com/bangalore/the-lazy-turtle-koramangala-4th-block-bangalore/info,5.3 km,-
+Toscano,4.2,"Italian, Pizza, Pasta, Continental, Desserts, Steak, Seafood, Beverages",900.0,https://www.zomato.com/bangalore/toscano-church-street-bangalore/info,999 m,-
+Chowman,4.5,"Chinese, Thai, Asian, Seafood, Sichuan, Desserts, Beverages",700.0,https://www.zomato.com/bangalore/chowman-indiranagar-bangalore/info,4.6 km,-
+The Fisherman's Wharf,4.1,"North Indian, Chinese, Seafood, Goan, Finger Food, Continental, Desserts, Beverages",950.0,https://www.zomato.com/bangalore/the-fishermans-wharf-sarjapur-road/info,10.1 km,10% OFF
+Mayuri,4.5,"Andhra, Biryani, North Indian, Chinese, Desserts",600.0,https://www.zomato.com/bangalore/mayuri-1-jp-nagar-bangalore/info,6.6 km,10% OFF
+The Peak,4.3,"Continental, Mangalorean",500.0,https://www.zomato.com/bangalore/the-peak-2-sahakara-nagar-bangalore/info,11.3 km,10% OFF
+Burma Burma - Indiranagar,4.8,"Burmese, Asian, Salad, Bubble Tea, Ice Cream, Desserts",900.0,https://www.zomato.com/bangalore/burma-burma-indiranagar-indiranagar-bangalore/info,5.5 km,-
+Gold Rush Brews,4.4,"North Indian, Italian, Asian, Continental, American, South Indian, Beverages, Desserts",950.0,https://www.zomato.com/bangalore/gold-rush-brews-kr-puram-bangalore/info,13.4 km,10% OFF
+Mezera Brewery & Kitchen,New,Continental,800.0,https://www.zomato.com/bangalore/mezera-brewery-kitchen-jp-nagar-bangalore/info,7.2 km,10% OFF
+Fenny's Lounge And Kitchen,4.5,"Mediterranean, Continental, Italian, Desserts, Beverages",950.0,https://www.zomato.com/bangalore/fennys-lounge-and-kitchen-koramangala-7th-block/info,4.6 km,-
+Umbaa Pub And Kitchen,4.5,"Bar Food, North Indian, Mughlai, Continental, Beverages",750.0,https://www.zomato.com/bangalore/umbaa-pub-and-kitchen-1-itpl-main-road-whitefield-bangalore/info,17.2 km,15% OFF
+Tales Of Flamingo,4.5,"Continental, Asian, North Indian, Desserts",750.0,https://www.zomato.com/bangalore/tales-of-flamingo-bannerghatta-road-bangalore/info,9.8 km,10% OFF
+Badmaash Sarjapur,4.0,"Beverages, North Indian, Desserts",1500.0,https://www.zomato.com/bangalore/badmaash-sarjapur-sarjapur-road-bangalore/info,12.2 km,-
+Roots,4.4,"North Indian, South Indian, Chinese, Mughlai, Mangalorean, Desserts, Beverages",800.0,https://www.zomato.com/bangalore/roots-koramangala-1st-block/info,6.4 km,10% OFF
+Levels Pub & Kitchen,4.5,"Asian, South Indian, North Indian",850.0,https://www.zomato.com/bangalore/levels-pub-kitchen-jp-nagar-bangalore/info,7.3 km,10% OFF
+White Garden,4.3,"North Indian, Italian, Lebanese, Asian, Continental, Desserts",800.0,https://www.zomato.com/bangalore/white-garden-kalyan-nagar-bangalore/info,7.8 km,10% OFF
+Nasi And Mee,4.5,"Asian, Sushi, Thai",800.0,https://www.zomato.com/bangalore/nasi-and-mee-koramangala-4th-block/info,5.6 km,-
+The 13th Floor,4.3,"North Indian, Asian, Kebab, Chinese, Salad, Beverages, Desserts",1250.0,https://www.zomato.com/bangalore/the-13th-floor-mg-road-bangalore/info,1.3 km,-
+The Reservoire,4.4,"North Indian, Biryani, Asian, Italian, Continental, Bar Food, Desserts, Beverages",1000.0,https://www.zomato.com/bangalore/the-reservoire-koramangala-5th-block/info,5.2 km,10% OFF
+Over Coffee Cafe & Wine Bar,4.7,"European, Italian, Continental, Cafe, Coffee",600.0,https://www.zomato.com/bangalore/over-coffee-cafe-wine-bar-lavelle-road-bangalore/info,672 m,-
+The Groot,4.0,"Italian, North Indian, Chinese, Burger, Pasta, Pizza, Salad, Desserts",600.0,https://www.zomato.com/bangalore/the-groot-jakkur-bangalore/info,13.5 km,10% OFF
+Escape by Brewklyn,New,"Continental, Asian, North Indian, Pizza, Burger",1250.0,https://www.zomato.com/bangalore/escape-by-brewklyn-nagawara-bangalore/info,8.1 km,10% OFF
+Omega IX Cocktail Bar And Global Kitchen,4.2,"North Indian, Continental, Asian, Sushi, Italian, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/omega-ix-cocktail-bar-and-global-kitchen-sahakara-nagar-bangalore/info,9.8 km,15% OFF
+Wabi Sabi - The Oberoi,4.7,"Asian, Chinese",3000.0,https://www.zomato.com/bangalore/wabi-sabi-the-oberoi-mg-road-bangalore/info,2.6 km,-
+Aromas Of Biryani,4.1,"Biryani, North Indian, Seafood, Beverages",700.0,https://www.zomato.com/bangalore/aromas-of-biryani-hsr-bangalore/info,7.8 km,10% OFF
+Amintiri,4.3,"Desserts, Bakery, Fast Food, Beverages, Pasta, Italian, Cafe, Finger Food",550.0,https://www.zomato.com/bangalore/amintiri-church-street-bangalore/info,995 m,-
+Gulp Cocktails And Kitchen,4.2,"North Indian, Continental, Mughlai, South Indian, Modern Indian, Pasta, Pizza, Chinese",750.0,https://www.zomato.com/bangalore/gulp-cocktails-and-kitchen-banashankari-bangalore/info,7 km,10% OFF
+Float Brewery,4.4,"Bar Food, Continental, Italian, Asian, North Indian, Desserts, Pizza, Beverages",750.0,https://www.zomato.com/bangalore/float-brewery-kalyan-nagar-bangalore/info,7.8 km,10% OFF
+Table For Tous,4.9,"Cafe, Bakery, Coffee, Desserts",375.0,https://www.zomato.com/TableForTous/info,7.6 km,10% OFF
+Just BLR,4.4,"North Indian, Chinese, Biryani, Beverages",1250.0,https://www.zomato.com/bangalore/just-blr-1-brigade-road-bangalore/info,1.4 km,10% OFF
+Geometry Gastropub,4.4,"Continental, North Indian, Chinese, Mughlai, Biryani, Desserts, Beverages",800.0,https://www.zomato.com/bangalore/geometry-gastropub-new-bel-road-bangalore/info,7.9 km,15% OFF
+Dhaba - Estd 1986 Delhi,4.3,"North Indian, Mughlai, Desserts, Paan",750.0,https://www.zomato.com/bangalore/dhaba-estd-1986-delhi-marathahalli-bangalore/info,11.6 km,10% OFF
+The Rameshwaram Cafe,4.2,"South Indian, Beverages",100.0,https://www.zomato.com/bangalore/the-rameshwaram-cafe-indiranagar-bangalore/info,5.4 km,-
+North Star Cafe,4.4,"Cafe, Bakery, Beverages, Desserts, Continental, Healthy Food",400.0,https://www.zomato.com/bangalore/north-star-cafe-hsr-bangalore/info,8.2 km,10% OFF
+TOY BOY,4.3,"Bar Food, North Indian, Pizza, Oriental",1000.0,https://www.zomato.com/bangalore/toy-boy-majestic-bangalore/info,3.5 km,10% OFF
+Proxy,4.4,"Finger Food, Street Food, Pasta, Bar Food, Desserts",600.0,https://www.zomato.com/bangalore/proxy-mahadevapura-bangalore/info,10.4 km,15% OFF
+XOOX Brewmill,4.3,"North Indian, Continental, American, Italian, Asian, Modern Indian, Pizza, Desserts",1000.0,https://www.zomato.com/bangalore/xoox-brewmill-koramangala-5th-block-bangalore/info,4.6 km,10% OFF
+Jamming Goat 3.0,4.3,"North Indian, Asian, Desserts",750.0,https://www.zomato.com/bangalore/jamming-goat-3-0-jp-nagar-bangalore/info,7.3 km,10% OFF
+Communiti,4.4,"American, Continental, European, Italian, Oriental, Burger, Beverages",900.0,https://www.zomato.com/bangalore/communiti-brigade-road-bangalore/info,1.5 km,-
+Sultans Of Spice,4.4,"North Indian, Mughlai, Afghan, Biryani, Desserts, Beverages",850.0,https://www.zomato.com/bangalore/sultans-of-spice-koramangala-5th-block-bangalore/info,4.8 km,-
+Jamavar - The Leela Palace,4.3,"North Indian, South Indian",2500.0,https://www.zomato.com/bangalore/jamavar-the-leela-palace-airport-road/info,6.1 km,10% OFF
+Indigo XP,4.1,"North Indian, Continental, Chinese, Italian, Oriental, Thai, Biryani",1000.0,https://www.zomato.com/bangalore/indigo-xp-koramangala-5th-block/info,4.8 km,20% OFF
+Zest,4.1,"North Indian, Mughlai, Kebab, Chinese, Continental, Desserts",750.0,https://www.zomato.com/bangalore/zest-lavelle-road-bangalore/info,654 m,15% OFF
+Tim Hortons,4.2,"Cafe, Coffee, Beverages, Desserts, Sandwich, Fast Food",500.0,https://www.zomato.com/bangalore/tim-hortons-koramangala-8th-block-bangalore/info,4.5 km,10% OFF
+Fia's Lounge,4.6,"Parsi, Lebanese, Beverages",750.0,https://www.zomato.com/bangalore/fias-lounge-richmond-road-bangalore/info,1.1 km,15% OFF
+LOFT38,4.1,"Italian, BBQ, Asian, North Indian, Fast Food, Beverages",1000.0,https://www.zomato.com/LOFT38/info,5.1 km,-
+Kampot,4.3,"Vietnamese, Asian, Chinese, Desserts, Beverages, Salad, Korean",900.0,https://www.zomato.com/bangalore/kampot-bellandur-bangalore/info,11.3 km,-
+Chowki Multicuisine Restaurant,4.1,"North Indian, Chinese, Seafood, Fast Food, Biryani, Sichuan, Desserts, Beverages",350.0,https://www.zomato.com/bangalore/chowki-multicuisine-restaurant-whitefield-bangalore/info,15.3 km,15% OFF
+TYD,4.5,"Asian, European, Sushi, Continental, Italian, Mexican, Beverages, Desserts",950.0,https://www.zomato.com/bangalore/tyd-1-hennur-bangalore/info,10.8 km,10% OFF
+Chili's American Grill & Bar,4.3,"Burger, Mexican, American, Italian, Continental, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/chilis-american-grill-bar-rajajinagar-bangalore/info,6.2 km,-
+1522 - The Pub,4.4,"Bar Food, North Indian, Chinese, Finger Food, Seafood, Mughlai, Salad, BBQ",900.0,https://www.zomato.com/bangalore/1522-the-pub-jp-nagar-bangalore/info,7.5 km,-
+Sidewalk Bar & Kitchen,4.3,"North Indian, Continental, Chinese, Fast Food, Beverages",900.0,https://www.zomato.com/bangalore/sidewalk-bar-kitchen-marathahalli-bangalore/info,11.6 km,15% OFF
+Gannet Bar & Kitchen,New,"Bar Food, North Indian, Mughlai, Seafood, Chinese, Continental, Oriental, Desserts",900.0,https://www.zomato.com/bangalore/gannet-bar-kitchen-2-bommanahalli-bangalore/info,10.9 km,20% OFF
+Fox In The Field,4.2,"Modern Indian, Continental, North Indian, Pizza, American, Italian, Desserts, Beverages",1000.0,https://www.zomato.com/bangalore/fox-in-the-field-whitefield-bangalore/info,14.6 km,10% OFF
+Chinese Wok,4.0,"Momos, Chinese",350.0,https://www.zomato.com/bangalore/chinese-wok-electronic-city-bangalore/info,15.2 km,20% OFF
+Buff Buffet Buff,4.4,"South Indian, Salad, Bar Food, North Indian, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/buff-buffet-buff-koramangala-5th-block/info,4.8 km,-
+Hitchki,4.2,"Bar Food, Continental, North Indian, Asian, Biryani, Desserts",950.0,https://www.zomato.com/bangalore/hitchki-sarjapur-road-bangalore/info,12.2 km,-
+Flechazo,4.3,"North Indian, Chinese, Pizza, Continental, Fast Food, Desserts, Shake, Beverages",500.0,https://www.zomato.com/bangalore/flechazo-1-marathahalli-bangalore/info,11.1 km,10% OFF
+2 MOONS,4.4,"Modern Indian, Continental, Asian",1050.0,https://www.zomato.com/bangalore/2-moons-mg-road-bangalore/info,2.8 km,10% OFF
+Lord Of The Drinks,4.0,"Finger Food, Continental, European, North Indian, Italian, Asian, Sichuan",850.0,https://www.zomato.com/bangalore/lord-of-the-drinks-1-whitefield-bangalore/info,11.4 km,15% OFF
+Mithai Mahal Sweets And Restaurant,4.4,"Mithai, Continental, North Indian, Street Food, Momos, Fast Food, Chinese, Beverages",100.0,https://www.zomato.com/bangalore/mithai-mahal-sweets-and-restaurant-bannerghatta-road-bangalore/info,9.8 km,-
+Dyu Art Cafe,4.3,"Cafe, Continental, Burger, Sandwich, Pizza, Fast Food, Desserts, Beverages",425.0,https://www.zomato.com/bangalore/dyu-art-cafe-koramangala-8th-block-bangalore/info,4.6 km,-
+Daysie - All Day Casual Bar,4.4,"North Indian, Italian, Continental, Asian, Chinese, Bar Food, Desserts",650.0,https://www.zomato.com/bangalore/daysie-all-day-casual-bar-mg-road-bangalore/info,2.6 km,-
+Yuki,4.5,"Asian, Japanese, Sushi, Thai, Chinese, Salad, Desserts",800.0,https://www.zomato.com/bangalore/yuki-indiranagar-bangalore/info,5.1 km,-
+Suku Japanese And Thai Restaurant,4.6,"Japanese, Thai, Sushi, Salad, Desserts, Beverages",400.0,https://www.zomato.com/bangalore/suku-japanese-and-thai-restaurant-hsr-bangalore/info,9.5 km,-
+Tiger Yaki,New,"Korean, Japanese",500.0,https://www.zomato.com/bangalore/tiger-yaki-st-marks-road-bangalore/info,730 m,10% OFF
+Hydra Club & Kitchen,4.4,"Continental, Biryani, North Indian, South Indian, Japanese, Chinese",600.0,https://www.zomato.com/bangalore/hydra-club-kitchen-koramangala-5th-block-bangalore/info,4.7 km,15% OFF
+You Mee,4.3,"Asian, Sushi, Japanese, Chinese, Desserts, Beverages",1100.0,https://www.zomato.com/bangalore/you-mee-whitefield-bangalore/info,14.6 km,10% OFF
+Horizon,4.5,"Chinese, Japanese, Asian, Salad, Thai, Desserts, Beverages",1500.0,https://www.zomato.com/bangalore/horizon-1-malleshwaram-bangalore/info,6.1 km,15% OFF
+Oyster Bar & Kitchen,4.5,"Continental, Bar Food, Chinese, North Indian, Beverages, Desserts",800.0,https://www.zomato.com/bangalore/oyster-bar-kitchen-hsr-bangalore/info,8.2 km,10% OFF
+Plan B,4.1,"American, Continental, Burger, Pizza, Tex-Mex, Fast Food",800.0,https://www.zomato.com/bangalore/plan-b-koramangala-7th-block-bangalore/info,4.6 km,10% OFF
+Cocobolo,4.3,"Bar Food, North Indian, Continental, Italian, Chinese, BBQ, Desserts, Beverages",500.0,https://www.zomato.com/bangalore/cocobolo-new-bel-road-bangalore/info,7.6 km,10% OFF
+Little Italy,4.0,"Italian, Pizza, Pasta, Continental, Desserts, Healthy Food, Beverages",1150.0,https://www.zomato.com/bangalore/little-italy-indiranagar/info,5.2 km,10% OFF
+The Persian Terrace - Sheraton Grand Bangalore Hotel at Brigade Gateway,4.2,"Iranian, Mediterranean, Afghan, Seafood, Desserts",1750.0,https://www.zomato.com/bangalore/the-persian-terrace-sheraton-grand-bangalore-hotel-at-brigade-gateway-malleshwaram/info,6.2 km,15% OFF
+Dock 66,4.3,"North Indian, South Indian",900.0,https://www.zomato.com/bangalore/dock-66-1-whitefield-bangalore/info,14.1 km,10% OFF
+Rim Naam - The Oberoi,4.9,"Thai, Asian, Seafood, Desserts",2500.0,https://www.zomato.com/bangalore/rim-naam-the-oberoi-mg-road-bangalore/info,2.6 km,-
+Rumi,4.0,"Awadhi, Mughlai, North Indian, Kebab, Desserts",550.0,https://www.zomato.com/bangalore/rumi-indiranagar-bangalore/info,5.3 km,15% OFF
+Shift Lounge & Bar,4.2,"Finger Food, Continental, North Indian, Salad, Seafood, Mughlai",700.0,https://www.zomato.com/bangalore/shift-lounge-bar-hsr-bangalore/info,8.2 km,25% OFF
+Pizza Brew House,4.2,"Pizza, Pasta, Fast Food, Coffee, Beverages",475.0,https://www.zomato.com/bangalore/pizza-brew-house-new-bel-road-bangalore/info,7 km,15% OFF
+Truffles,4.7,"Burger, Italian, Desserts, Continental, American, Fast Food, Beverages",550.0,https://www.zomato.com/bangalore/truffles-koramangala-5th-block/info,4.8 km,-
+Celeb’s Restobar,4.4,Bar Food,650.0,https://www.zomato.com/bangalore/celebs-restobar-brookefield-bangalore/info,15.3 km,15% OFF
+Salt - Indian Restaurant Bar & Grill,4.5,"North Indian, Rolls, Mughlai, Seafood, Biryani, Kebab, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/salt-indian-restaurant-bar-grill-varthur-main-road-whitefield-bangalore/info,15 km,15% OFF
+Sashay-Taproom Kitchen,4.7,"Asian, Modern Indian, Continental, Sushi, North Indian, Chinese, Desserts, Beverages",1000.0,https://www.zomato.com/bangalore/sashay-taproom-kitchen-whitefield-bangalore/info,13.4 km,20% OFF
+Public - The Rooftop Bar And Kitchen,4.1,"North Indian, Biryani, Oriental, Pizza, Continental",600.0,https://www.zomato.com/bangalore/public-the-rooftop-bar-and-kitchen-bannerghatta-road-bangalore/info,8.2 km,15% OFF
+Ishaara,4.5,"North Indian, Mughlai, Kebab, Biryani",1250.0,https://www.zomato.com/bangalore/ishaara-kr-puram-bangalore/info,11.4 km,10% OFF
+Leon's Burgers & Wings,4.2,"Burger, Fast Food, Wraps",200.0,https://www.zomato.com/bangalore/leons-burgers-wings-indiranagar-bangalore/info,5.1 km,-
+Watson's,4.1,"North Indian, Continental, Italian, European, Asian, Beverages, Desserts",800.0,https://www.zomato.com/bangalore/watsons-indiranagar-bangalore/info,5.1 km,-
+Rajdhani,4.0,"Gujarati, North Indian, Rajasthani",600.0,https://www.zomato.com/bangalore/rajdhani-indiranagar-bangalore/info,5.2 km,-
+AB's - Absolute Barbecues,4.3,"Biryani, BBQ, Kebab, North Indian, Desserts",800.0,https://www.zomato.com/bangalore/abs-absolute-barbecues-electronic-city-bangalore/info,15.4 km,-
+Hangover Brewery,4.0,"Continental, North Indian, Chinese, Finger Food, Burger, Pizza, Desserts",1000.0,https://www.zomato.com/bangalore/hangover-brewery-koramangala-7th-block-bangalore/info,4.6 km,10% OFF
+Dobaraa,New,"Continental, North Indian, Salad, Desserts",600.0,https://www.zomato.com/bangalore/dobaraa-hebbal-bangalore/info,11.1 km,10% OFF
+Gatsby,4.4,"Finger Food, Healthy Food, North Indian, Asian, Sushi, Chinese, South Indian, Pizza",1250.0,https://www.zomato.com/bangalore/gatsby-bannerghatta-road-bangalore/info,9.5 km,10% OFF
+Zodiac Bar & Kitchen,4.3,"Continental, North Indian, Pizza, Italian, Chinese, Fast Food, Biryani, Desserts",900.0,https://www.zomato.com/bangalore/zodiac-bar-kitchen-brookefield-bangalore/info,12.8 km,15% OFF
+Prequel,4.4,"North Indian, Continental, Asian, Italian, Pizza, Sushi, Burger, Desserts",650.0,https://www.zomato.com/bangalore/prequel-3-hebbal-bangalore/info,8.9 km,-
+Arbor Brewing Company,4.6,"American, Continental, Fast Food, Beverages",900.0,https://www.zomato.com/ArborBrewIndia/info,1.8 km,-
+Thelagram,4.4,"North Indian, Street Food, Desserts, Beverages",400.0,https://www.zomato.com/bangalore/thelagram-jp-nagar-bangalore/info,7.3 km,15% OFF
+Bamey's Restro Cafe,4.2,"Asian, Nepalese, Momos",475.0,https://www.zomato.com/bameys/info,4.6 km,10% OFF
+Barkaas Indo Arabic Restaurant,4.2,"Arabian, North Indian, Biryani, Mandi, Desserts",500.0,https://www.zomato.com/bangalore/barkaas-indo-arabic-restaurant-1-koramangala-5th-block-bangalore/info,4.7 km,10% OFF
+Playful Palette,4.4,"Continental, Italian, Pizza, Pasta, Bakery, Desserts, Coffee, Cafe",700.0,https://www.zomato.com/bangalore/playful-palette-indiranagar-bangalore/info,5.1 km,10% OFF
+ShakesBierre,4.4,"Finger Food, North Indian, Continental, Italian, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/shakesbierre-1-brigade-road-bangalore/info,1.4 km,10% OFF
+Neemsi,New,"North Indian, Italian, Continental, Asian, Chinese, Desserts, Beverages",750.0,https://www.zomato.com/bangalore/neemsi-jp-nagar-bangalore/info,7.4 km,-
+Gully Coffee Roasters,New,"Cafe, Coffee, Pasta, Burger, Continental, Pancake",350.0,https://www.zomato.com/bangalore/gully-coffee-roasters-1-koramangala-5th-block-bangalore/info,4.8 km,10% OFF
+Shift Lounge & Bar,4.5,"North Indian, Chinese, Desserts, Beverages",750.0,https://www.zomato.com/bangalore/shift-lounge-bar-marathahalli-bangalore/info,11.7 km,20% OFF
+Roastea,4.3,"Coffee, Beverages, Italian, European",300.0,https://www.zomato.com/bangalore/roastea-sahakara-nagar-bangalore/info,11.1 km,10% OFF
+Nando's- Flame Grilled PERi- PERi Chicken,4.4,"Burger, Healthy Food, Portuguese, Desserts",750.0,https://www.zomato.com/bangalore/nandos-flame-grilled-peri-peri-chicken-whitefield-bangalore/info,11.4 km,-
+Sally By 1522,4.3,"South Indian, Chinese, Salad, Continental, Asian, Biryani, Seafood, Pasta",800.0,https://www.zomato.com/bangalore/sally-by-1522-hebbal-bangalore/info,11.1 km,-
+Hakuna Matata,4.4,"North Indian, Asian, Seafood, Chinese, Biryani, Fast Food, Desserts, Beverages",850.0,https://www.zomato.com/bangalore/hakuna-matata-jp-nagar/info,8.7 km,-
+Don't Tell Mama,4.1,"North Indian, Continental, Chinese, Italian, Oriental, Thai, Biryani",1000.0,https://www.zomato.com/bangalore/dont-tell-mama-1-hsr-bangalore/info,7.6 km,20% OFF
+Thyme and Whisk,4.4,"Continental, Asian, North Indian, Biryani, Burger, Mexican, Pasta, Pizza",850.0,https://www.zomato.com/bangalore/thyme-and-whisk-electronic-city-bangalore/info,16 km,-
+PizzaExpress,4.4,"Pizza, Italian, Salad, Bakery, Coffee, Beverages, Pasta, Cafe",700.0,https://www.zomato.com/bangalore/pizzaexpress-koramangala-5th-block-bangalore/info,5.1 km,-
+La Casa Brewery And Kitchen,4.3,"Continental, North Indian, Mughlai, Chinese, Finger Food, Steak, Desserts, Beverages",1000.0,https://www.zomato.com/bangalore/la-casa-brewery-and-kitchen-sarjapur-road-bangalore/info,11.6 km,20% OFF
+Secret Of Bangalore,4.3,"Italian, Continental, Asian, Pizza, Pasta, Desserts, Beverages",800.0,https://www.zomato.com/bangalore/secret-of-bangalore-rajarajeshwari-nagar-bangalore/info,10 km,-
+Bira 91 Taproom,4.1,"Continental, Fast Food, Bar Food, North Indian, Italian, Beverages",1250.0,https://www.zomato.com/bangalore/bira-91-taproom-koramangala-4th-block-bangalore/info,6.1 km,-
+Geist Brewing Co.,4.4,"Continental, American, Italian, Modern Indian, North Indian, Pasta, Asian, Beverages",750.0,https://www.zomato.com/bangalore/geist-brewing-co-old-madras-road-bangalore/info,20 km,-
+The Bangalore Cafe,4.2,"North Indian, Italian, Continental, Biryani, Chinese, Desserts",475.0,https://www.zomato.com/bangalore/the-bangalore-cafe-1-shanti-nagar-bangalore/info,1.1 km,-
+Chianti,4.7,"Italian, Pizza, Pasta, Desserts, Salad",900.0,https://www.zomato.com/bangalore/chianti-kanakapura-road-bangalore/info,9.9 km,-
+Kyba- Sushi Dim Sums & More,4.7,"Chinese, Thai, Sushi, Japanese, Asian, Seafood, Desserts",700.0,https://www.zomato.com/bangalore/kyba-sushi-dim-sums-more-sahakara-nagar-bangalore/info,9.8 km,-
+Toca Terrace,4.1,"South Indian, North Indian, Continental, Chinese, Seafood, Pasta",550.0,https://www.zomato.com/bangalore/toca-terrace-brigade-road-bangalore/info,1.4 km,-
+Windmills,4.8,"Continental, North Indian, Mughlai, Kebab, Desserts",1750.0,https://www.zomato.com/bangalore/windmills-1-whitefield-bangalore/info,13.9 km,-
+Paragon Restaurant - Since 1939,4.1,"Kerala, Oriental, South Indian, Chinese, Seafood, Desserts, Beverages, North Indian",500.0,https://www.zomato.com/bangalore/paragon-restaurant-since-1939-st-marks-road-bangalore/info,966 m,-
+KFC,3.8,"Burger, Fast Food, Rolls",200.0,https://www.zomato.com/bangalore/kfc-nagawara/info,9.3 km,-
+Stories Bar & Kitchen,4.4,"Bar Food, Chinese, North Indian, Italian, Pizza, Seafood, Desserts",700.0,https://www.zomato.com/bangalore/stories-bar-kitchen-rajarajeshwari-nagar-bangalore/info,10.4 km,-
+Eight,4.5,"Asian, Chinese, Thai, Japanese, Peruvian",1500.0,https://www.zomato.com/bangalore/eight-hebbal-bangalore/info,11.1 km,-
+BANOFFEE,4.1,"Cafe, Continental, Asian, Mexican, Italian, European, Beverages, Desserts",800.0,https://www.zomato.com/bangalore/banoffee-hsr-bangalore/info,7.9 km,10% OFF
+LUPA,3.5,"Mediterranean, European, Italian, Salad, Desserts, Beverages",2500.0,https://www.zomato.com/bangalore/lupa-mg-road-bangalore/info,1.2 km,-
+Platform.65,3.6,"Andhra, North Indian, Mughlai, Chinese, Biryani, Ice Cream, Desserts, Beverages",650.0,https://www.zomato.com/bangalore/platform-65-bannerghatta-road-bangalore/info,10.2 km,15% OFF
+Conçu,4.4,"Cafe, Fast Food",250.0,https://www.zomato.com/bangalore/con%C3%A7u-indiranagar-bangalore/info,4.7 km,-
+Lucky Chan - Dimsum & Sushi Parlour,4.4,"Japanese, Chinese, Asian, Desserts, Beverages",950.0,https://www.zomato.com/bangalore/lucky-chan-dimsum-sushi-parlour-indiranagar-bangalore/info,5.3 km,-
+Mannheim Craft Brewery,New,"South Indian, North Indian, Continental, Desserts, Asian",750.0,https://www.zomato.com/bangalore/mannheim-craft-brewery-brigade-road-bangalore/info,1.7 km,15% OFF
+Bob's Bar,4.2,"South Indian, Biryani, Sandwich, Desserts, Bakery, Beverages",700.0,https://www.zomato.com/bangalore/bobs-bar-1-indiranagar-bangalore/info,5.1 km,-
+The Big Baadshaah,4.3,"Continental, Chinese, Asian, North Indian, Fast Food, Street Food, Desserts, Beverages",950.0,https://www.zomato.com/bangalore/the-big-baadshaah-marathahalli-bangalore/info,11.6 km,10% OFF
+Yauatcha,4.4,"Chinese, Asian, Cantonese, Seafood, Tea, Desserts",1500.0,https://www.zomato.com/bangalore/yauatcha-mg-road/info,2.8 km,-
+Copper Chimney,4.3,"North Indian, Mughlai, Biryani, Kebab, Beverages",850.0,https://www.zomato.com/bangalore/copper-chimney-mahadevapura-bangalore/info,11.5 km,-
+We: Neighborhood,4.4,"European, American, North Indian, Burger, Pizza, Desserts, Beverages",700.0,https://www.zomato.com/bangalore/we-neighborhood-brigade-road-bangalore/info,1.5 km,-
+JW Kitchen - JW Marriott Bengaluru,4.2,"North Indian, Continental, Mughlai, Beverages, Desserts, Asian",2500.0,https://www.zomato.com/bangalore/jw-kitchen-jw-marriott-bengaluru-lavelle-road/info,69 m,25% OFF
+Barrys Sky Lounge,4.2,"Chinese, North Indian, Oriental, Mughlai, Biryani",500.0,https://www.zomato.com/bangalore/barrys-sky-lounge-kalyan-nagar-bangalore/info,8.4 km,15% OFF
+Smooth Criminal,4.0,"Chinese, North Indian, Pizza, Biryani, Desserts, Beverages, Continental",500.0,https://www.zomato.com/bangalore/smooth-criminal-koramangala-5th-block-bangalore/info,4.8 km,15% OFF
+Brother Barley Brewing Company,4.2,"Finger Food, Continental, North Indian, Chinese, Italian, Beverages, Desserts",900.0,https://www.zomato.com/bangalore/brother-barley-brewing-company-hsr-bangalore/info,8.1 km,10% OFF
+Bombay Brasserie,4.5,"North Indian, Biryani, Fast Food, Desserts, Tea",1000.0,https://www.zomato.com/bangalore/bombay-brasserie-indiranagar/info,5.6 km,-
+Hot Griddle,4.1,"South Indian, Chinese, Biryani, North Indian, Asian, Italian, Desserts, Beverages",600.0,https://www.zomato.com/bangalore/hot-griddle-jayanagar-bangalore/info,6.1 km,20% OFF
+Rasotsav,4.3,"Rajasthani, Gujarati, North Indian, Mithai",600.0,https://www.zomato.com/bangalore/rasotsav-kanakapura-road-bangalore/info,9.8 km,-
+Seta,4.4,"Asian, Mediterranean, Chinese, Desserts",1250.0,https://www.zomato.com/bangalore/seta-domlur-bangalore/info,6.1 km,25% OFF
+Full Circle,4.3,"Continental, Asian, North Indian, South Indian, BBQ, Bar Food, Desserts, Cafe",1100.0,https://www.zomato.com/bangalore/full-circle-rajarajeshwari-nagar-bangalore/info,11.3 km,10% OFF
+Skyline Rooftop Bar & Kitchen,4.4,"Chinese, Italian, Fast Food, North Indian, Kebab, Biryani, Continental, Beverages",900.0,https://www.zomato.com/bangalore/skyline-rooftop-bar-kitchen-marathahalli-bangalore/info,11 km,20% OFF
+Easy Tiger,4.1,"Finger Food, Continental",850.0,https://www.zomato.com/bangalore/easy-tiger-church-street/info,1.4 km,10% OFF
+Plan B X Hangover,4.1,"American, Burger, Pizza, Continental, Bar Food, Desserts, Beverages",1000.0,https://www.zomato.com/bangalore/plan-b-x-hangover-hsr-bangalore/info,9 km,10% OFF
+Bologna,4.9,"Italian, Pasta, Pizza, Desserts",750.0,https://www.zomato.com/bangalore/bologna-indiranagar-bangalore/info,5.1 km,15% OFF
+Nevermind - Bar & Social,4.1,"Bar Food, North Indian, Chinese, Continental, Burger",900.0,https://www.zomato.com/bangalore/nevermind-bar-social-indiranagar-bangalore/info,5.6 km,15% OFF
+Moplah's,4.5,"Kerala, Biryani, Seafood, Beverages, Ice Cream, Desserts",850.0,https://www.zomato.com/bangalore/moplahs-koramangala-5th-block-bangalore/info,5.1 km,-
+The Druid Garden,4.2,"North Indian, Asian, Continental, Italian, Chinese, Fast Food",1000.0,https://www.zomato.com/bangalore/the-druid-garden-sahakara-nagar-bangalore/info,10.2 km,-
+Mūru Mūru,4.2,"Cafe, Coffee, North Indian, Mexican, Fast Food, Desserts, Beverages",350.0,https://www.zomato.com/bangalore/m-ru-m-ru-1-indiranagar-bangalore/info,4.9 km,-
+Khmer Kitchen,4.5,"Chinese, Asian, Thai, Japanese",1250.0,https://www.zomato.com/bangalore/khmer-kitchen-jp-nagar-bangalore/info,7.3 km,-
+Olive Beach,4.4,"Italian, Pizza, Mediterranean, Continental, European, Beverages, Desserts",1750.0,https://www.zomato.com/bangalore/olive-beach-richmond-road-bangalore/info,1.6 km,-
+Chulha Chauki Da Dhaba,4.3,"North Indian, Chinese, Kebab, Mughlai, Biryani, Beverages",500.0,https://www.zomato.com/bangalore/chulha-chauki-da-dhaba-sarjapur-road-bangalore/info,12 km,-
+Gabru Di Chaap,4.1,"North Indian, Momos, Fast Food, Wraps, Beverages",250.0,https://www.zomato.com/bangalore/gabru-di-chaap-kr-puram-bangalore/info,11.5 km,10% OFF
+"Torye Drink, Dine & Dance",3.9,Continental,1000.0,https://www.zomato.com/bangalore/torye-drink-dine-dance-rajarajeshwari-nagar-bangalore/info,11.5 km,10% OFF
+Suay,3.9,"Cafe, Coffee, Continental, Fast Food, Salad, Chinese, Desserts, Beverages",700.0,https://www.zomato.com/bangalore/suay-jp-nagar-bangalore/info,7.3 km,-
+Mirage,4.2,"Asian, Chinese, Thai, Beverages, Desserts",1500.0,https://www.zomato.com/bangalore/mirage-st-marks-road-bangalore/info,957 m,-
+The Sauce Code,4.2,"Pasta, Continental, Asian, Italian, Desserts",500.0,https://www.zomato.com/bangalore/the-sauce-code-bellandur-bangalore/info,11.4 km,10% OFF
+Sole Fry - Coastal Speciality & Bar,4.5,"Seafood, Mangalorean, North Indian, Asian, Chinese, Desserts, Beverages",800.0,https://www.zomato.com/bangalore/sole-fry-coastal-speciality-bar-2-electronic-city-bangalore/info,16.9 km,10% OFF
+Sharief Bhai,4.1,"Biryani, Kebab, Mughlai, Arabian, South Indian, Rolls, Desserts, Beverages",550.0,https://www.zomato.com/bangalore/sharief-bhai-frazer-town-bangalore/info,3.5 km,15% OFF
+Jamie Oliver Kitchen,4.3,"Italian, Pizza, Beverages",750.0,https://www.zomato.com/bangalore/jamie-oliver-kitchen-indiranagar-bangalore/info,4.9 km,10% OFF
+Sattvam,4.2,"Chinese, Continental",980.0,https://www.zomato.com/bangalore/sattvam-jp-nagar-bangalore/info,7.3 km,-
+Spettacolare,4.0,"Italian, Pizza, Pasta",500.0,https://www.zomato.com/bangalore/spettacolare-indiranagar-bangalore/info,4.7 km,-
+Chin Lung Resto Bar,4.0,"Bar Food, Chinese, North Indian",700.0,https://www.zomato.com/bangalore/chin-lung-resto-bar-residency-road-bangalore/info,1.4 km,-
+Karigari By Chef Harpal Singh Sokhi,4.4,"North Indian, Kebab, Beverages, Seafood, Desserts",600.0,https://www.zomato.com/bangalore/karigari-by-chef-harpal-singh-sokhi-sahakara-nagar-bangalore/info,11.1 km,-
+Vapour Pub & Brewery,4.1,"North Indian, Continental, Oriental, Chinese, Pizza, Fast Food, Desserts, Beverages",1250.0,https://www.zomato.com/bangalore/vapour-pub-brewery-indiranagar-bangalore/info,5.1 km,15% OFF
+Chapter One Bar | Maiin,4.3,"North Indian, South Indian, Chinese, Italian, Fast Food, Finger Food, Desserts, Beverages",700.0,https://www.zomato.com/bangalore/chapter-one-bar-maiin-new-bel-road-bangalore/info,7.3 km,10% OFF
+Chavadi,4.3,"North Indian, South Indian, Seafood, Desserts, Beverages",850.0,https://www.zomato.com/bangalore/chavadi-bannerghatta-road/info,8.9 km,-
+Just BLR Arena,4.4,"Continental, North Indian, Italian, Beverages",900.0,https://www.zomato.com/bangalore/just-blr-arena-1-brigade-road-bangalore/info,1.4 km,10% OFF
+Beijing Bites,3.7,"Chinese, Seafood, Thai, Rolls, Momos, Malaysian",500.0,https://www.zomato.com/bangalore/beijing-bites-sarjapur-road/info,10.1 km,15% OFF
+Kebapci,4.2,"BBQ, Turkish, Kebab, Lebanese, Desserts",800.0,https://www.zomato.com/bangalore/kebapci-koramangala-6th-block-bangalore/info,5 km,-
+Flyover Drinkery,4.4,"Thai, Continental, Oriental, Italian, Mangalorean, North Indian, South Indian, Desserts",750.0,https://www.zomato.com/bangalore/flyover-drinkery-hebbal-bangalore/info,8.6 km,-
+Brik Oven,4.4,"Pizza, Italian, Beverages, Desserts, Shake",600.0,https://www.zomato.com/bangalore/brik-oven-whitefield-bangalore/info,14.2 km,10% OFF
+Sstella Kitchen And Bar,4.5,"Asian, Chinese, Desserts, Beverages, Afghan",500.0,https://www.zomato.com/bangalore/sstella-kitchen-and-bar-bannerghatta-road-bangalore/info,10.6 km,15% OFF
+Boteco Restaurante Brasileiro,4.3,"Brazilian, Steak, Salad, Finger Food, Desserts, Coffee, Beverages",1750.0,https://www.zomato.com/bangalore/boteco-restaurante-brasileiro-1-mg-road-bangalore/info,1.7 km,-
+Sector 144,4.4,"North Indian, Chinese, Kebab, Mughlai, Italian, Fast Food, Desserts, Bar Food",550.0,https://www.zomato.com/bangalore/sector-144-electronic-city-bangalore/info,15.4 km,-
+Sugar Factory Reloaded,3.9,"North Indian, Continental, Italian, Chinese, Asian, American",900.0,https://www.zomato.com/bangalore/sugar-factory-reloaded-koramangala-5th-block-bangalore/info,4.7 km,10% OFF
+Maya,4.4,"Asian, North Indian, Chinese, Thai, Beverages",900.0,https://www.zomato.com/bangalore/maya-1-jayanagar-bangalore/info,5.6 km,10% OFF
+Dishkeyaun,4.1,"Modern Indian, Biryani, Desserts",1000.0,https://www.zomato.com/bangalore/dishkeyaun-1-brigade-road-bangalore/info,1.4 km,-
+Sanadige - Goldfinch Hotel,4.2,"Seafood, Mangalorean, Goan, South Indian, North Indian, Chinese, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/sanadige-goldfinch-hotel-seshadripuram/info,2.2 km,15% OFF
+The Fixx,4.1,"North Indian, Continental, Chinese, Seafood, Pasta, Pizza, Biryani, Beverages",900.0,https://www.zomato.com/bangalore/the-fixx-1-koramangala-4th-block-bangalore/info,5.9 km,15% OFF
+Barkaas- Arabic Restaurant,4.0,"Arabian, North Indian, Mughlai, Shawarma, Fast Food, Mandi, Desserts, Beverages",650.0,https://www.zomato.com/bangalore/barkaas-arabic-restaurant-marathahalli-bangalore/info,11.6 km,10% OFF
+Caffé Allora,4.5,"Pizza, Italian, Pasta",750.0,https://www.zomato.com/bangalore/caff%C3%A9-allora-hebbal-bangalore/info,11.1 km,10% OFF
+California Burrito,4.3,"Mexican, American, Continental, Healthy Food, Beverages, Fast Food",225.0,https://www.zomato.com/bangalore/california-burrito-bannerghatta-road/info,9 km,10% OFF
+Cafe G - Holiday Inn,3.8,"North Indian, Italian, Continental, Chinese, Asian, Desserts",1300.0,https://www.zomato.com/bangalore/cafe-g-holiday-inn-race-course-road-bangalore/info,2 km,40% OFF
+46 Ounces Brewgarden,4.2,"Finger Food, Asian, Chinese, Pizza, North Indian, Fast Food",950.0,https://www.zomato.com/bangalore/46-ounces-brewgarden-electronic-city-bangalore/info,15.2 km,-
+Niro,4.5,"Continental, North Indian, Beverages, Asian, Bar Food",1250.0,https://www.zomato.com/bangalore/niro-nagawara-bangalore/info,8.1 km,-
+Drunken Daddy,4.3,"North Indian, Continental, Fast Food, Oriental, Finger Food, Biryani, Beverages",700.0,https://www.zomato.com/bangalore/drunken-daddy-koramangala-5th-block-bangalore/info,4.8 km,-
+SLAY Coffee Bar,4.5,"Cafe, Coffee, Beverages, Fast Food, Sandwich, Burger",300.0,https://www.zomato.com/bangalore/slay-coffee-bar-hsr-bangalore/info,9.1 km,10% OFF
+SARKI LOUNGE,New,"North Indian, Asian, Continental, Chinese, Sushi, Italian",750.0,https://www.zomato.com/bangalore/sarki-lounge-bommanahalli-bangalore/info,10.4 km,10% OFF
+Minsk Restobar,4.1,"North Indian, Asian, Continental, Chinese, South Indian, Bar Food, European",700.0,https://www.zomato.com/bangalore/minsk-restobar-btm-bangalore/info,6.2 km,15% OFF
+NH8,4.1,"North Indian, Rajasthani",600.0,https://www.zomato.com/bangalore/nh8-indiranagar/info,5.7 km,-
+Botanica,4.0,"North Indian, Oriental",750.0,https://www.zomato.com/bangalore/botanica-kanakapura-road-bangalore/info,12.8 km,-
+Foxtrot,4.2,"North Indian, Mughlai, Biryani, Desserts, Beverages",950.0,https://www.zomato.com/bangalore/foxtrot-marathahalli-bangalore/info,11.6 km,10% OFF
+Mohr - The Modern Indian Kitchen,New,"North Indian, Bar Food",500.0,https://www.zomato.com/bangalore/mohr-the-modern-indian-kitchen-jp-nagar-bangalore/info,7.2 km,-
+Soka,4.4,"Bar Food, Continental",500.0,https://www.zomato.com/bangalore/soka-indiranagar-bangalore/info,4.8 km,-
+Skyye,4.3,"Continental, Asian, Thai, Seafood, Italian, Beverages, Desserts",1100.0,https://www.zomato.com/bangalore/skyye-lavelle-road/info,193 m,-
+Hoy Punjab Restaurant,4.3,"North Indian, Mughlai, Chinese, Street Food, Oriental, Beverages",900.0,https://www.zomato.com/bangalore/hoy-punjab-restaurant-whitefield-bangalore/info,17.6 km,15% OFF
+Samosa Party,4.1,"Street Food, Tea, North Indian, Beverages, Mithai, Desserts",100.0,https://www.zomato.com/bangalore/samosa-party-1-indiranagar-bangalore/info,4.8 km,10% OFF
+Travellers Bungalow,4.3,"Middle Eastern, European, Pizza, Finger Food, Desserts, Beverages",700.0,https://www.zomato.com/bangalore/travellers-bungalow-1-indiranagar-bangalore/info,5.6 km,-
+Blurred,4.1,"North Indian, South Indian, Continental, Chinese",500.0,https://www.zomato.com/bangalore/blurred-koramangala-5th-block-bangalore/info,4.8 km,10% OFF
+Smoor,4.3,"Cake, Desserts, Bakery, Cafe, Beverages, Ice Cream, Asian, Pasta",350.0,https://www.zomato.com/bangalore/smoor-lavelle-road-bangalore/info,653 m,10% OFF
+The Grill House - Steaks & Sizzlers,4.2,"American, Mexican, Italian, Steak, Seafood",700.0,https://www.zomato.com/bangalore/the-grill-house-steaks-sizzlers-ulsoor-bangalore/info,2.8 km,-
+Hungry Hippie,4.2,"North Indian, Italian, Continental, Mexican, Pizza, Fast Food, Desserts, Beverages",600.0,https://www.zomato.com/bangalore/hungry-hippie-koramangala-5th-block/info,4.7 km,10% OFF
+Jamie Oliver Kitchen Cafe,3.7,"Healthy Food, Coffee, Salad, Sandwich, Tea, Continental",500.0,https://www.zomato.com/bangalore/jamie-oliver-kitchen-cafe-bellandur-bangalore/info,10.3 km,10% OFF
+The Irish House,4.3,"European, Mediterranean, Mexican, BBQ, Burger, Pizza, Desserts, Beverages",1000.0,https://www.zomato.com/bangalore/the-irish-house-yelahanka-bangalore/info,13.6 km,-
+Santé Spa Cuisine,4.9,"Pizza, North Indian, Continental, Pasta, Asian, Cafe, Beverages, Desserts",900.0,https://www.zomato.com/bangalore/sant%C3%A9-spa-cuisine-domlur-bangalore/info,4.9 km,-
+Carnival de Goa,4.3,"Goan, Chinese, Continental, Seafood, Pizza, Desserts, Beverages",600.0,https://www.zomato.com/bangalore/carnival-de-goa-ulsoor/info,2.8 km,10% OFF
+Smoky Docky,3.9,"Shawarma, Desserts, Beverages",175.0,https://www.zomato.com/bangalore/smoky-docky-1-koramangala-5th-block-bangalore/info,4.8 km,10% OFF
+Noodle Bar,3.8,"Asian, Oriental, Chinese, Thai, Desserts, Beverages",850.0,https://www.zomato.com/bangalore/noodle-bar-whitefield/info,11.5 km,-
+Barbeque Nation,4.3,"North Indian, BBQ, Biryani, Kebab, Continental, Chinese, Beverages, Desserts",950.0,https://www.zomato.com/bangalore/barbeque-nation-electronic-city/info,15.5 km,-
+Spice It - Ibis Bengaluru,4.0,"North Indian, Continental, Italian, Asian, Desserts, Beverages",1250.0,https://www.zomato.com/bangalore/spice-it-ibis-bengaluru-bellandur-bangalore/info,10.7 km,20% OFF
+Plan B,4.3,"American, Continental, Burger, Pizza",500.0,https://www.zomato.com/bangalore/plan-b-anekal-bangalore/info,18.7 km,15% OFF
+Tipsy London,3.9,"Bar Food, Continental, South Indian, North Indian, Middle Eastern, Italian, Chinese, Desserts",600.0,https://www.zomato.com/bangalore/tipsy-london-electronic-city-bangalore/info,15.3 km,20% OFF
+Grazers Resto - Bar,4.2,"North Indian, Salad, Continental, Burger, Pizza, Fast Food, Asian, Bar Food",600.0,https://www.zomato.com/bangalore/grazers-resto-bar-jayanagar-bangalore/info,4.4 km,15% OFF
+Delhi Highway,4.1,"North Indian, Chinese, Street Food, Kebab, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/delhi-highway-indiranagar/info,4.9 km,-
+Iza,4.5,"Asian, Chinese, Seafood, Salad, Desserts",600.0,https://www.zomato.com/bangalore/iza-marathahalli-bangalore/info,10.7 km,10% OFF
+Mahe Global Kitchen,4.4,"North Indian, Continental, Asian, Pizza, Chinese, Desserts, Shake, Beverages",700.0,https://www.zomato.com/bangalore/mahe-global-kitchen-koramangala-5th-block-bangalore/info,5.2 km,10% OFF
+The Creek - The Den Bengaluru,4.1,"North Indian, South Indian, Asian, Pizza, Desserts",1500.0,https://www.zomato.com/bangalore/the-creek-the-den-bengaluru-whitefield/info,15.2 km,10% OFF
+RRoyal Rajasthan,3.6,"Rajasthani, North Indian, Beverages",425.0,https://www.zomato.com/bangalore/rroyal-rajasthan-sarjapur-road/info,11.6 km,10% OFF
+Hopshaus,4.1,"North Indian, Oriental, Continental, Burger, Desserts",450.0,https://www.zomato.com/bangalore/hopshaus-whitefield-bangalore/info,16.8 km,15% OFF
+Pincode 24 Bar & Bistro,4.4,"Bar Food, Continental",500.0,https://www.zomato.com/bangalore/pincode-24-bar-bistro-hebbal-bangalore/info,8.1 km,10% OFF
+Rural Blues,4.2,"Asian, Bar Food, North Indian, Continental, Italian, Desserts, Biryani, Beverages",750.0,https://www.zomato.com/bangalore/rural-blues-sarjapur-road/info,15.6 km,10% OFF
+Iris Cafe & Kitchen,4.1,"Cafe, Coffee, Chinese, Continental, Modern Indian, Pasta, Fast Food, Desserts",600.0,https://www.zomato.com/bangalore/iris-cafe-kitchen-1-jp-nagar-bangalore/info,7.4 km,-
+Gufha - The President Hotel,4.1,"North Indian, Mughlai, Biryani, Beverages",700.0,https://www.zomato.com/bangalore/gufha-the-president-hotel-jayanagar/info,4.4 km,10% OFF
+Mangroove Taproom and Kitchen,4.4,"Chinese, Asian",1250.0,https://www.zomato.com/bangalore/mangroove-taproom-and-kitchen-electronic-city-bangalore/info,13.9 km,10% OFF
+Cafe Azzure,3.5,"Cafe, Continental, Mexican, Italian, Fast Food, Desserts, Beverages",700.0,https://www.zomato.com/bangalore/cafe-azzure-hsr-bangalore/info,8.7 km,15% OFF
+Kake Di Hatti,4.1,"North Indian, Chinese, Beverages",900.0,https://www.zomato.com/bangalore/kake-di-hatti-electronic-city-bangalore/info,15.4 km,-
+Kava - Fairfield By Marriott,New,"North Indian, Mughlai, Seafood, Desserts",1400.0,https://www.zomato.com/bangalore/kava-fairfield-by-marriott-bellandur-bangalore/info,10.7 km,25% OFF
+1882 - DoubleTree by Hilton Whitefield,4.1,"Continental, Asian, North Indian, Modern Indian",1000.0,https://www.zomato.com/bangalore/1882-doubletree-by-hilton-whitefield-brookefield-bangalore/info,13.3 km,20% OFF
+Parika Multicuisine & Coastal Fine Dine,4.3,"Mangalorean, Seafood, North Indian, Asian, Chinese, South Indian, Desserts, Beverages",650.0,https://www.zomato.com/bangalore/parika-multicuisine-coastal-fine-dine-hsr/info,8.2 km,10% OFF
+Lavonne,4.4,"Cafe, Tea, Beverages, Bakery, Continental, Pasta, Salad, Fast Food",650.0,https://www.zomato.com/bangalore/lavonne-indiranagar/info,4.6 km,-
+Pinxx - Royal Orchid Central,4.0,"Continental, North Indian, Chinese, Sandwich, Fast Food, Desserts, Beverages",950.0,https://www.zomato.com/bangalore/pinxx-royal-orchid-central-mg-road-bangalore/info,2.3 km,25% OFF
+Shiro,4.3,"Japanese, Sushi, Asian, Desserts, Thai, Korean, Cantonese, Vietnamese",1750.0,https://www.zomato.com/bangalore/shiro-lavelle-road/info,229 m,-
+EasyBites By Empire,-,"Burger, Fast Food",225.0,https://www.zomato.com/bangalore/easybites-by-empire-kammanahalli-bangalore/info,6.6 km,-
+Altitude Kitchen & Bar,4.2,"Chinese, Seafood, North Indian, Kebab, Pizza, Finger Food, Biryani, Desserts",900.0,https://www.zomato.com/bangalore/altitude-kitchen-bar-basaveshwara-nagar-bangalore/info,6.4 km,10% OFF
+Pind Balluchi,3.9,"North Indian, Mughlai, Fast Food, Biryani, Desserts",475.0,https://www.zomato.com/bangalore/pind-balluchi-varthur-main-road-whitefield-bangalore/info,16.6 km,15% OFF
+IGNYT -The Beer Station,4.2,Continental,1000.0,https://www.zomato.com/bangalore/ignyt-the-beer-station-kumaraswamy-layout-bangalore/info,7.8 km,50% OFF
+The Lotus Oriental - The Leela Bhartiya City,4.3,"Thai, Oriental, Japanese, Asian, Desserts, Beverages",1500.0,https://www.zomato.com/bangalore/the-lotus-oriental-the-leela-bhartiya-city-jakkur-bangalore/info,13.6 km,15% OFF
+Daya's Kitchen,3.8,"Biryani, Chinese, Kebab",200.0,https://www.zomato.com/bangalore/dayas-kitchen-bommanahalli-bangalore/info,9.7 km,20% OFF
+Poco A Poco - Global Food & Music,4.3,"Steak, Continental, North Indian, Oriental, American, Italian, Beverages",500.0,https://www.zomato.com/bangalore/poco-a-poco-global-food-music-whitefield-bangalore/info,17 km,10% OFF
+Mainland China,4.4,"Chinese, Sushi, Seafood, Asian, Japanese, Beverages",1000.0,https://www.zomato.com/bangalore/mainland-china-1-church-street-bangalore/info,1.1 km,15% OFF
+Kazé,New,"Japanese, Sushi, Thai, Asian",1750.0,https://www.zomato.com/bangalore/kaz%C3%A9-1-lavelle-road-bangalore/info,702 m,-
+Mahesh Lunch Home,4.2,"Seafood, Mangalorean, South Indian, North Indian, Continental, Desserts, Beverages",850.0,https://www.zomato.com/bangalore/mahesh-lunch-home-1-indiranagar-bangalore/info,5.2 km,-
+Plaka By Chef Ajay Chopra,4.1,"Italian, North Indian, Mediterranean, Pizza, Continental, Asian, Coffee",900.0,https://www.zomato.com/bangalore/plaka-by-chef-ajay-chopra-sahakara-nagar-bangalore/info,11.1 km,-
+Auntie Fung's,4.0,"Asian, Chinese, Thai, Korean, Burmese, Indonesian, Cantonese, Vietnamese",300.0,https://www.zomato.com/bangalore/auntie-fungs-new-bel-road/info,6.9 km,10% OFF
+Thyme and Whisk,4.3,"Continental, North Indian, Asian, Italian, Healthy Food, Fast Food, Desserts, Beverages",850.0,https://www.zomato.com/bangalore/thyme-and-whisk-sarjapur-road-bangalore/info,10.5 km,-
+Brassa,4.4,"Mexican, Japanese, Mediterranean, Italian, Lebanese, Tea, Coffee, Desserts",900.0,https://www.zomato.com/bangalore/brassa-st-marks-road-bangalore/info,691 m,-
+Dofu,3.9,"Chinese, Korean, Japanese, Asian, Desserts, Beverages",700.0,https://www.zomato.com/bangalore/dofu-indiranagar-bangalore/info,5.1 km,-
+The Local,4.4,"Pizza, Continental, Burger, Seafood, Kerala, Finger Food, Beverages",800.0,https://www.zomato.com/bangalore/the-local-kalyan-nagar-bangalore/info,7.5 km,15% OFF
+Saarai,4.4,"Andhra, Asian",750.0,https://www.zomato.com/bangalore/saarai-jayanagar-bangalore/info,5.8 km,-
+Ebony,4.2,"North Indian, Biryani, South Indian, Thai, Seafood, Desserts, Beverages",950.0,https://www.zomato.com/bangalore/ebony-mg-road/info,1.3 km,-
+Gustoes,4.4,"Italian, Seafood, Chinese, Asian, North Indian, BBQ, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/gustoes-jayanagar-bangalore/info,5.8 km,-
+Cuppa Redefined,4.3,"Cafe, American, Burger, Healthy Food, Salad, Fast Food, Desserts, Beverages",350.0,https://www.zomato.com/bangalore/cuppa-redefined-hsr-bangalore/info,7.8 km,10% OFF
+Ithaca - The Chancery Pavilion,3.9,"North Indian, Chinese, South Indian, Asian, Pasta, Street Food, Fast Food, Desserts",1250.0,https://www.zomato.com/bangalore/ithaca-the-chancery-pavilion-residency-road/info,802 m,15% OFF
+The Rasoiya Street,4.2,"North Indian, Continental, Asian, Chinese, Desserts, Beverages",550.0,https://www.zomato.com/bangalore/the-rasoiya-street-1-jp-nagar-bangalore/info,7.4 km,10% OFF
+1947,4.2,"North Indian, Chinese, Desserts, Beverages",500.0,https://www.zomato.com/bangalore/1947-hennur-bangalore/info,12.5 km,10% OFF
+Nagarjuna - Since 1984,3.9,"Andhra, Biryani, South Indian",475.0,https://www.zomato.com/bangalore/nagarjuna-since-1984-marathahalli-bangalore/info,11.6 km,-
+Bathinda Junction,3.9,"North Indian, Kebab, Street Food, Desserts, Beverages",475.0,https://www.zomato.com/bangalore/bathinda-junction-hsr/info,8 km,-
+Azukii Bistro,4.8,"Japanese, Asian, Rolls, Sushi, Salad, Tea, Beverages",900.0,https://www.zomato.com/bangalore/azukii-bistro-richmond-town-bangalore/info,1.6 km,-
+The Pizza Bakery,4.1,"Pizza, Pasta, Continental, Italian, Salad, Desserts, Beverages",750.0,https://www.zomato.com/bangalore/the-pizza-bakery-church-street-bangalore/info,1.2 km,-
+Cafe Muziris,4.2,"Cafe, Coffee, Beverages, Continental, Sandwich, Fast Food, Healthy Food, Ice Cream",500.0,https://www.zomato.com/bangalore/cafe-muziris-1-indiranagar-bangalore/info,5 km,15% OFF
+Kuuraku,4.6,"Japanese, Rolls, Beverages",750.0,https://www.zomato.com/bangalore/kuuraku-brigade-road-bangalore/info,1.4 km,-
+Cosmo Dhaba,3.8,"North Indian, Biryani, Chinese, Sandwich, Burger, Pasta, Fast Food, Beverages",275.0,https://www.zomato.com/bangalore/cosmo-dhaba-hsr-bangalore/info,8.8 km,-
+Kebabs & Kurries - ITC Gardenia,4.3,"North Indian, Kebab, Seafood",1500.0,https://www.zomato.com/bangalore/kebabs-kurries-itc-gardenia-residency-road-bangalore/info,516 m,-
+The London Curry House - The Royale Senate Hotel,4.3,"Modern Indian, North Indian, Italian, Continental, Fast Food, Desserts, Beverages",1000.0,https://www.zomato.com/bangalore/the-london-curry-house-the-royale-senate-hotel-race-course-road-bangalore/info,2.2 km,10% OFF
+Cafe Palmyra,4.3,"Chinese, North Indian, Continental, Oriental, Sichuan, South Indian, Desserts",1250.0,https://www.zomato.com/bangalore/cafe-palmyra-whitefield/info,15.8 km,10% OFF
+Aroma's Hyderabad House,4.2,"Hyderabadi, Biryani, North Indian, Mughlai, Chinese, Seafood, Kebab, Beverages",475.0,https://www.zomato.com/bangalore/aromas-hyderabad-house-hsr-bangalore/info,8.5 km,10% OFF
+Ouro,4.0,"European, Mexican, Desserts",1500.0,https://www.zomato.com/bangalore/ouro-brigade-road-bangalore/info,1.4 km,-
+The Square - Novotel,4.0,"Continental, North Indian, Japanese, Italian",1600.0,https://www.zomato.com/bangalore/the-square-novotel-marathahalli/info,10.7 km,20% OFF
+Itasian,4.5,"Italian, Asian, Chinese, Sushi, Burger, Fast Food, Desserts, Beverages",500.0,https://www.zomato.com/bangalore/itasian-jakkur-bangalore/info,11.7 km,10% OFF
+Tandoori Taal,4.0,"North Indian, Finger Food, Biryani, Desserts, Beverages",550.0,https://www.zomato.com/bangalore/tandoori-taal-1-indiranagar/info,4.7 km,-
+Nom Nom,4.3,"Asian, Chinese, Sushi, Desserts, Japanese, Thai",800.0,https://www.zomato.com/bangalore/nom-nom-bellandur-bangalore/info,11.4 km,10% OFF
+Casa Fresco By Tea Brew,4.1,"American, Italian, Pasta, Steak, Chinese, Momos, Bubble Tea, Beverages",475.0,https://www.zomato.com/bangalore/casa-fresco-by-tea-brew-hsr-bangalore/info,8.3 km,-
+The Drawing Room By Smoke House Deli,4.5,"Continental, Italian, Beverages",1500.0,https://www.zomato.com/bangalore/the-drawing-room-by-smoke-house-deli-indiranagar-bangalore/info,5.1 km,-
+Suzy Q,4.3,"North Indian, Seafood, Continental, Asian, Chinese, Desserts, Beverages",1150.0,https://www.zomato.com/bangalore/suzy-q-cunningham-road-bangalore/info,1.4 km,-
+Burger King,4.1,"Burger, Fast Food, Desserts, Beverages",200.0,https://www.zomato.com/bangalore/burger-king-3-rajajinagar-bangalore/info,6.2 km,-
+Gufha,4.6,"North Indian, Chinese, Continental, Biryani, Kebab, Desserts",550.0,https://www.zomato.com/bangalore/gufha-1-sankey-road-bangalore/info,3 km,10% OFF
+Glen`s Bakehouse,3.8,"Bakery, Cafe, Italian, Continental, Fast Food, Beverages, Desserts",400.0,https://www.zomato.com/bangalore/glen-s-bakehouse-whitefield-bangalore/info,16.8 km,-
+Empire Restaurant,3.8,"North Indian, Biryani, Kebab, South Indian, Mughlai, Chinese, Seafood",475.0,https://www.zomato.com/bangalore/empire-restaurant-koramangala-5th-block/info,4.7 km,-
+The Courtyard - Hotel Evoma,3.8,"Chinese, Continental, North Indian, South Indian, Desserts",600.0,https://www.zomato.com/bangalore/the-courtyard-hotel-evoma-kr-puram/info,14 km,10% OFF
+Happy Place,4.3,"Beverages, American, Cafe, Continental, European, Pasta, Salad",150.0,https://www.zomato.com/bangalore/happy-place-new-bel-road-bangalore/info,7.9 km,10% OFF
+Escape Bar & Kitchen,4.2,"North Indian, Chinese, Fast Food, Pizza, Pasta, Biryani, Kebab, Bar Food",500.0,https://www.zomato.com/bangalore/escape-bar-kitchen-kanakapura-road-bangalore/info,13.3 km,10% OFF
+Hoy Punjab Restaurant,4.0,"North Indian, Beverages",150.0,https://www.zomato.com/bangalore/hoy-punjab-restaurant-banaswadi-bangalore/info,5.3 km,15% OFF
+Mooch Marod,4.2,"North Indian, Beverages",300.0,https://www.zomato.com/bangalore/mooch-marod-koramangala-6th-block-bangalore/info,4.7 km,-
+Swwing,4.1,"Seafood, Modern Indian, Salad, Asian, South Indian",1250.0,https://www.zomato.com/bangalore/swwing-indiranagar-bangalore/info,5 km,-
+Adda 1522,New,"Fast Food, South Indian, Seafood, North Indian, Kebab, Mughlai, Asian, European",750.0,https://www.zomato.com/bangalore/adda-1522-ulsoor-bangalore/info,3.5 km,-
+Paradise Biryani - A Legend Since 1953,4.1,"Biryani, Kebab, North Indian, Rolls, Chinese, Desserts",550.0,https://www.zomato.com/bangalore/paradise-biryani-a-legend-since-1953-marathahalli-bangalore/info,11.7 km,-
+Xochi Bar And Kitchen,4.5,"Asian, North Indian, Continental",1250.0,https://www.zomato.com/bangalore/xochi-bar-and-kitchen-bellandur-bangalore/info,10.1 km,-
+MYKA Cafe & Boutique,New,"Chinese, South Indian, Sandwich, Pizza, Burger, Salad, Desserts, Beverages",600.0,https://www.zomato.com/bangalore/myka-cafe-boutique-whitefield-bangalore/info,14.2 km,10% OFF
+Cha Hong Kong Eating House,4.5,"Asian, Chinese",500.0,https://www.zomato.com/bangalore/cha-hong-kong-eating-house-hebbal-bangalore/info,11.1 km,15% OFF
+Burgerama,3.7,"Burger, Beverages",250.0,https://www.zomato.com/bangalore/burgerama-electronic-city-bangalore/info,17.6 km,10% OFF
+Nandhana Palace,4.2,"Andhra, Biryani, North Indian, Chinese, Desserts, Ice Cream, Beverages",700.0,https://www.zomato.com/bangalore/nandhana-palace-electronic-city-bangalore/info,15.5 km,-
+Sathya's,4.1,"North Indian, Chinese, Beverages",700.0,https://www.zomato.com/bangalore/sathyas-koramangala-3rd-block/info,6.7 km,-
+RNR Biryani - Taste Of 1953,4.2,"Biryani, South Indian, Kebab, Desserts, Beverages",350.0,https://www.zomato.com/bangalore/rnr-biryani-taste-of-1953-1-jayanagar-bangalore/info,4.9 km,-
+Phobidden Fruit,4.4,"Vietnamese, Asian, Desserts",650.0,https://www.zomato.com/bangalore/phobidden-fruit-indiranagar/info,4.9 km,-
+Happy Brew Bar & Kitchen,3.8,"Fast Food, European, Asian, Italian, North Indian",900.0,https://www.zomato.com/bangalore/happy-brew-bar-kitchen-koramangala-5th-block-bangalore/info,4.8 km,-
+Asia Alive - DoubleTree Suites By Hilton,4.2,"North Indian, South Indian, Chinese, Thai, Italian, Burger, Sandwich, Beverages",1750.0,https://www.zomato.com/bangalore/asia-alive-doubletree-suites-by-hilton-sarjapur-road-bangalore/info,9.7 km,25% OFF
+Go Fusion,New,"Pizza, Italian, Oriental, Chinese, Desserts",200.0,https://www.zomato.com/bangalore/go-fusion-kanakapura-road-bangalore/info,11.1 km,10% OFF
+Techila,4.3,"North Indian, Burger, Biryani, Pizza, Chinese, Mexican, Fast Food, Rolls",600.0,https://www.zomato.com/bangalore/techila-nagawara-bangalore/info,10.3 km,10% OFF
+KA 01- Ibis Hotel,4.2,"Finger Food, North Indian, Kebab, Street Food, Desserts",1000.0,https://www.zomato.com/bangalore/ka-01-ibis-hotel-lavelle-road-bangalore/info,511 m,40% OFF
+Oota Bangalore,4.9,"Mangalorean, South Indian, Salad, Desserts",600.0,https://www.zomato.com/bangalore/oota-bangalore-whitefield/info,13.9 km,-
+Topic Craft Bar & Kitchen,New,"Bar Food, North Indian, Asian, Pizza, Italian, Salad, Desserts",500.0,https://www.zomato.com/bangalore/topic-craft-bar-kitchen-kengeri-bangalore/info,14 km,-
+Bangalore Adda,4.0,"Salad, Seafood, Kebab, Pizza, Chinese, North Indian, Biryani, Desserts",600.0,https://www.zomato.com/bangalore/bangalore-adda-1-new-bel-road-bangalore/info,7.5 km,10% OFF
+Chutney Chang,3.9,"Chinese, North Indian, Momos",900.0,https://www.zomato.com/bangalore/chutney-chang-church-street/info,961 m,10% OFF
+Kenzai,4.2,"Asian, Japanese, Chinese, Salad, Desserts, Beverages",850.0,https://www.zomato.com/bangalore/kenzai-brigade-road-bangalore/info,1.7 km,10% OFF
+Marbella Sky Lounge,3.5,"Continental, North Indian, Asian, Beverages",1250.0,https://www.zomato.com/bangalore/marbella-sky-lounge-jayanagar-bangalore/info,7.9 km,10% OFF
+WOW! Momo,3.4,"Momos, Fast Food, Chinese, Tibetan, Sichuan, Beverages, Desserts",200.0,https://www.zomato.com/bangalore/wow-momo-1-church-street-bangalore/info,1.2 km,15% OFF
+Dhaba Social,4.0,"North Indian, Chinese, Seafood, Mughlai",425.0,https://www.zomato.com/bangalore/dhaba-social-brookefield/info,13.4 km,-
+Graffiti by HOC,4.3,"Continental, Chinese, Modern Indian, Beverages",500.0,https://www.zomato.com/bangalore/graffiti-by-hoc-kalyan-nagar-bangalore/info,7.9 km,-
+United Telugu Kitchens,3.8,South Indian,1000.0,https://www.zomato.com/bangalore/united-telugu-kitchens-kumaraswamy-layout-bangalore/info,9.9 km,-
+Zarf - The Indian Kitchen,4.1,North Indian,1500.0,https://www.zomato.com/bangalore/zarf-the-indian-kitchen-whitefield-bangalore/info,14.8 km,25% OFF
+The Spiceberry,4.2,"North Indian, Pasta, Pizza, Continental, Salad, Sandwich, Kebab, Desserts",500.0,https://www.zomato.com/bangalore/the-spiceberry-bellandur-bangalore/info,9.6 km,10% OFF
+The Bah,New,"Continental, European, American, South Indian, North Indian",750.0,https://www.zomato.com/bangalore/the-bah-whitefield-bangalore/info,15.1 km,-
+Dhwani,4.5,"North Indian, Bar Food, Continental, Chinese, Biryani, Pizza, Momos",650.0,https://www.zomato.com/bangalore/dhwani-indiranagar-bangalore/info,4.6 km,10% OFF
+Taaza Thindi,4.7,"South Indian, Beverages",50.0,https://www.zomato.com/bangalore/taaza-thindi-jayanagar/info,5.4 km,-
+"Cha Cha Cha - Dimsum, Sushi, Stir Fry",4.0,"Asian, Chinese",1250.0,https://www.zomato.com/bangalore/cha-cha-cha-dimsum-sushi-stir-fry-whitefield-bangalore/info,11.4 km,10% OFF
+The Coffee Brewery,3.8,"Cafe, Coffee, Sandwich, Fast Food, Desserts, Tea, Beverages",400.0,https://www.zomato.com/bangalore/the-coffee-brewery-indiranagar-bangalore/info,5.2 km,10% OFF
+Vegan Vogue,4.6,"North Indian, Italian, Continental, Chinese, Desserts, Tea, Juices, Beverages",600.0,https://www.zomato.com/bangalore/vegan-vogue-indiranagar-bangalore/info,5.7 km,10% OFF
+DYCE,3.9,"Continental, Pizza, Mexican, Burger, Beverages",600.0,https://www.zomato.com/bangalore/dyce-2-jayanagar-bangalore/info,5.5 km,10% OFF
+Glass – Kitchen & Bar,4.4,"Modern Indian, North Indian, Continental, Biryani, Bar Food, Seafood, Desserts, Beverages",1750.0,https://www.zomato.com/bangalore/glass-kitchen-bar-race-course-road-bangalore/info,2 km,30% OFF
+Absolute Shawarma,3.6,"Shawarma, Wraps, Burger, Momos, Pizza, Rolls, Shake, Beverages",275.0,https://www.zomato.com/bangalore/absolute-shawarma-basaveshwara-nagar-bangalore/info,6.7 km,-
+MISU,4.6,"Asian, Chinese, Thai, Japanese",1000.0,https://www.zomato.com/bangalore/misu-st-marks-road-bangalore/info,693 m,-
+Third Wave Coffee,4.2,"Cafe, Coffee, Sandwich, Pizza, Fast Food, Tea, Beverages",350.0,https://www.zomato.com/bangalore/third-wave-coffee-1-indiranagar-bangalore/info,5.6 km,-
+Onesta,4.2,"Pizza, Pasta, Sandwich, Fast Food, Desserts, Beverages",500.0,https://www.zomato.com/bangalore/onesta-indiranagar-bangalore/info,5.4 km,-
+Tuk Tuk Thai - Pure Veg Asian Fine Dine,4.4,"Thai, Salad, Sushi, Desserts",750.0,https://www.zomato.com/bangalore/tuk-tuk-thai-pure-veg-asian-fine-dine-1-jp-nagar-bangalore/info,7.4 km,-
+Garden By Su,New,"Italian, Asian, Japanese, Thai, Salad, Fast Food, Desserts, Beverages",800.0,https://www.zomato.com/bangalore/garden-by-su-jayanagar-bangalore/info,6.2 km,-
+SodaBottleOpenerWala,4.4,"Parsi, North Indian, Street Food, Desserts, Beverages",900.0,https://www.zomato.com/bangalore/sodabottleopenerwala-lavelle-road-bangalore/info,368 m,15% OFF
+The Whitefield Arms Pub & Microbrewery,4.1,"Modern Indian, Continental, BBQ",1000.0,https://www.zomato.com/bangalore/the-whitefield-arms-pub-microbrewery-whitefield-bangalore/info,11.3 km,15% OFF
+World On A Plate - Citrine Hotel,4.3,"Continental, Mexican, Italian, Chinese, North Indian, Oriental, Burger, Desserts",900.0,https://www.zomato.com/bangalore/world-on-a-plate-citrine-hotel-seshadripuram-bangalore/info,2.7 km,15% OFF
+Thirupathi Bhimas,4.0,"South Indian, Beverages",500.0,https://www.zomato.com/bangalore/thirupathi-bhimas-yelahanka-bangalore/info,13.6 km,10% OFF
+Starbucks Coffee,4.1,"Cafe, Coffee, Desserts, Beverages",300.0,https://www.zomato.com/bangalore/starbucks-coffee-itpl-main-road-whitefield-bangalore/info,15.5 km,-
+Andrea's Brasserie,4.5,"Pizza, Pasta, Asian, Salad, Desserts, Sushi, Beverages, Burger",800.0,https://www.zomato.com/bangalore/andreas-brasserie-yelahanka-bangalore/info,11.1 km,-
+Murphy's Brewhouse - The Paul Bangalore,4.3,"Continental, Mexican, Italian, Fast Food, North Indian, Irish, Desserts, Beverages",1000.0,https://www.zomato.com/bangalore/murphys-brewhouse-the-paul-bangalore-domlur-bangalore/info,5.3 km,15% OFF
+Restaurant Chef Pillai,4.5,Kerala,500.0,https://www.zomato.com/bangalore/restaurant-chef-pillai-brigade-road-bangalore/info,1.4 km,15% OFF
+Arogya Ahaara,4.7,South Indian,50.0,https://www.zomato.com/bangalore/arogya-ahaara-hsr/info,7.6 km,-
+The Kind Roastery and Brew Room,4.3,"Cafe, Coffee, Desserts, Asian, Pizza, Tea, Beverages, Pasta",250.0,https://www.zomato.com/bangalore/the-kind-roastery-and-brew-room-bellandur-bangalore/info,11.3 km,-
+Coco's Bar & Kitchen,3.9,"Bar Food, Italian, North Indian, South Indian, Asian, Thai, Fast Food, Beverages",900.0,https://www.zomato.com/bangalore/cocos-bar-kitchen-church-street-bangalore/info,1.2 km,-
+Sangam Sweets - Since 1964,3.8,"Mithai, Street Food, Fast Food, Beverages",150.0,https://www.zomato.com/bangalore/sangam-sweets-since-1964-hsr-bangalore/info,8.4 km,-
+Pizza Hut,3.9,"Pizza, Italian, Pasta, Fast Food, Desserts, Beverages",300.0,https://www.zomato.com/bangalore/pizza-hut-1-hsr-bangalore/info,7.9 km,-
+Spice Terrace - JW Marriott,4.2,"North Indian, Mughlai, Desserts",1750.0,https://www.zomato.com/bangalore/spice-terrace-jw-marriott-lavelle-road/info,110 m,15% OFF
+Falak,4.6,"North Indian, Awadhi, Mughlai, Biryani, Desserts",2000.0,https://www.zomato.com/bangalore/falak-3-jakkur-bangalore/info,13.6 km,15% OFF
+Basil Bistro,4.1,"Continental, Italian, North Indian, Asian, Pizza, Desserts, Coffee, Beverages",900.0,https://www.zomato.com/bangalore/basil-bistro-hsr-bangalore/info,8.6 km,10% OFF
+Tastique,4.5,"North Indian, Chinese, Beverages",750.0,https://www.zomato.com/bangalore/tastique-6-nagawara-bangalore/info,8.1 km,10% OFF
+Waves - Bar & Kitchen,4.2,"North Indian, Biryani, Chinese, Pizza, Pasta, Salad, Desserts",600.0,https://www.zomato.com/bangalore/waves-bar-kitchen-sarjapur-road-bangalore/info,23.4 km,20% OFF
+Bg'S Poolside Bar & Grill - Courtyard By Marriott,4.2,"Mediterranean, Italian, Mexican, Fast Food, Desserts",1000.0,https://www.zomato.com/bangalore/bgs-poolside-bar-grill-courtyard-by-marriott-bellandur-bangalore/info,10.7 km,20% OFF
+Fireside: Flame Craft Dining,4.4,Continental,1000.0,https://www.zomato.com/bangalore/fireside-flame-craft-dining-kalyan-nagar-bangalore/info,7.7 km,-
+Blue Tokai Coffee Roasters,4.1,"Cafe, Coffee, Beverages",300.0,https://www.zomato.com/bangalore/blue-tokai-coffee-roasters-jayanagar-bangalore/info,5.5 km,-
+Taiki,4.2,"Korean, Japanese, Sushi, Salad, Desserts, Tea, Beverages",350.0,https://www.zomato.com/bangalore/taiki-jp-nagar-bangalore/info,7.3 km,-
+The Watering Hole,4.2,"Continental, North Indian, European, Asian, Desserts, Beverages",700.0,https://www.zomato.com/bangalore/the-watering-hole-btm-bangalore/info,7.5 km,10% OFF
+Barrel House,4.1,"Biryani, North Indian, Chinese, Continental, Sichuan, Beverages",600.0,https://www.zomato.com/bangalore/barrel-house-3-bannerghatta-road-bangalore/info,10.5 km,10% OFF
+The Biere Club,4.2,"Bar Food, Continental, Italian, Wraps, Salad, Middle Eastern, Pizza",1300.0,https://www.zomato.com/bangalore/the-biere-club-lavelle-road-bangalore/info,348 m,10% OFF
+Teavaro,4.2,"Tea, Fast Food, Sandwich, Desserts, Coffee, Bubble Tea, Burger, Beverages",250.0,https://www.zomato.com/bangalore/teavaro-koramangala-5th-block-bangalore/info,5 km,-
+Tuk Tuk Thai - Pure Veg Asian Fine Dine,4.6,"Thai, Asian, Chinese, Desserts, Beverages",750.0,https://www.zomato.com/bangalore/tuk-tuk-thai-pure-veg-asian-fine-dine-koramangala-5th-block-bangalore/info,5.2 km,-
+Broadway - The Gourmet Theatre,4.3,"Chinese, North Indian, Mughlai, Biryani, Asian, Japanese, Sushi, Beverages",1000.0,https://www.zomato.com/bangalore/broadway-the-gourmet-theatre-hsr/info,8.2 km,10% OFF
+The Broth Station,4.3,"Asian, Korean, Continental, Desserts, Japanese, Thai, Beverages",325.0,https://www.zomato.com/bangalore/the-broth-station-btm-bangalore/info,10.3 km,10% OFF
+Eating Love,New,"Pizza, Pasta, Rolls, Beverages, Desserts, Italian, Salad",500.0,https://www.zomato.com/bangalore/eating-love-jayanagar-bangalore/info,5.9 km,10% OFF
+WOW! Chicken by WOW! Momo,3.9,"Burger, American, Fast Food, Beverages",200.0,https://www.zomato.com/bangalore/wow-chicken-by-wow-momo-itpl-main-road-whitefield-bangalore/info,14.6 km,15% OFF
+Espressoulster Coffee,4.7,"Cafe, Coffee, Fast Food",330.0,https://www.zomato.com/bangalore/espressoulster-coffee-2-koramangala-4th-block-bangalore/info,5.7 km,10% OFF
+Feast - Sheraton Grand Bengaluru Whitefield Hotel & Convention Centre,4.5,"Continental, South Indian, North Indian, Desserts, Beverages",1750.0,https://www.zomato.com/bangalore/feast-sheraton-grand-bengaluru-whitefield-hotel-convention-centre-whitefield-bangalore/info,14.7 km,20% OFF
+B Town Barbeque,4.0,"BBQ, South Indian, Chinese, Salad, Desserts",850.0,https://www.zomato.com/bangalore/b-town-barbeque-rajarajeshwari-nagar-bangalore/info,12 km,10% OFF
+Sanchez,New,"Mexican, Beverages, Desserts",1000.0,https://www.zomato.com/bangalore/sanchez-nagawara-bangalore/info,8.3 km,10% OFF
+Snacafe,3.9,"Chinese, Fast Food, Street Food, Shawarma, Momos, Sandwich, Shake, Beverages",150.0,https://www.zomato.com/bangalore/snacafe-itpl-main-road-whitefield-bangalore/info,18 km,-
+Little Baghdad,3.9,"Shawarma, Arabian, Fast Food, BBQ, Desserts",500.0,https://www.zomato.com/bangalore/little-baghdad-kammanahalli-bangalore/info,6.8 km,-
+Meghana Foods,4.2,"Biryani, Andhra, North Indian, Seafood",500.0,https://www.zomato.com/bangalore/meghana-foods-residency-road/info,1.6 km,-
+IBC - Indian Biryani Company,4.2,"Biryani, North Indian, Chinese, Desserts, Beverages",325.0,https://www.zomato.com/bangalore/ibc-indian-biryani-company-hsr-bangalore/info,8 km,-
+1 BHK - Bar House Kitchen,4.3,"Continental, Italian, Pizza, Sandwich, Desserts, Shake, Beverages",700.0,https://www.zomato.com/bangalore/1-bhk-bar-house-kitchen-1-koramangala-6th-block-bangalore/info,4.9 km,-
+Fat Owl,4.2,"North Indian, Salad, Fast Food, Chinese, Seafood, Pizza, Italian, Bar Food",900.0,https://www.zomato.com/bangalore/fat-owl-jp-nagar-bangalore/info,7.4 km,-
+Jetlag,4.0,"North Indian, Continental, South Indian, Italian, Chinese, Kebab, Desserts, Beverages",1000.0,https://www.zomato.com/bangalore/jetlag-rajajinagar-bangalore/info,6.3 km,10% OFF
+On De Roof Restaurant,3.5,"South Indian, Biryani, Chinese, BBQ, Seafood, Desserts, Shake, Beverages",500.0,https://www.zomato.com/bangalore/on-de-roof-restaurant-yelahanka-bangalore/info,15.4 km,10% OFF
+Tiamo - Conrad Bengaluru,4.0,"Italian, Mediterranean, Fast Food",1500.0,https://www.zomato.com/bangalore/tiamo-conrad-bengaluru-ulsoor/info,2.8 km,15% OFF
+Neon Market,4.0,"Cafe, Coffee, Japanese, Tea, Beverages",500.0,https://www.zomato.com/bangalore/neon-market-indiranagar-bangalore/info,4.9 km,-
+LE KÉNE,4.0,"Cafe, Coffee, Fast Food, Desserts",300.0,https://www.zomato.com/bangalore/le-k%C3%A9ne-1-hsr-bangalore/info,8.3 km,-
+Thalairaj Biryani,3.9,"Andhra, Biryani, Hyderabadi, South Indian, Indian, Kebabs, Snacks, Beverages",250.0,https://www.zomato.com/bangalore/thalairaj-biryani-itpl-main-road-whitefield-bangalore/info,15.5 km,-
